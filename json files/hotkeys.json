@@ -1,0 +1,56 @@
+{
+  "hotkeys": {
+    "card": [
+      {
+        "actionList": [
+          "TOGGLE_ROTATE",
+          "$ACTIVE_CARD_ID"
+        ],
+        "key": "A",
+        "label": "Toggle Rotate"
+      },
+      {
+        "actionList": [
+          "FLIP_CARD",
+          "$ACTIVE_CARD_ID"
+        ],
+        "key": "F",
+        "label": "Flip Card"
+      },
+      {
+        "actionList": [
+          "DETACH",
+          "$ACTIVE_CARD_ID"
+        ],
+        "key": "C",
+        "label": "Detach"
+      },
+      {
+        "actionList": [
+          "SHUFFLE_INTO_DECK",
+          "$ACTIVE_CARD_ID"
+        ],
+        "key": "H",
+        "label": "Shuffle Into Owner's Deck"
+      },
+      {
+        "actionList": [
+          "DISCARD_CARD",
+          "$ACTIVE_CARD"
+        ],
+        "key": "X",
+        "label": "Discard"
+      }
+    ],
+    "game": [
+      {
+        "actionList": [
+          "DRAW_CARD"
+        ],
+        "key": "D",
+        "label": "Draw a card"
+      }
+    ],
+    "token": []
+  }
+}

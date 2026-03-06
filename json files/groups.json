@@ -1,0 +1,128 @@
+{
+  "groups": {
+    "Player1Active": {
+      "groupType": "deck",
+      "label": "Player 1 Active",
+      "onCardEnter": {
+        "controller": "player1",
+        "deckGroupId": "Player1Active"
+      },
+      "tableLabel": "Player 1 Active"
+    },
+    "Player1Used": {
+      "groupType": "deck",
+      "label": "Player 1 Used",
+      "onCardEnter": {
+        "controller": "player1",
+        "deckGroupId": "Player1Used"
+      },
+      "tableLabel": "Player 1 Used"
+    },
+    "Player2Active": {
+      "groupType": "deck",
+      "label": "Player 2 Active",
+      "onCardEnter": {
+        "controller": "player2",
+        "deckGroupId": "Player2Active"
+      },
+      "tableLabel": "Player 2 Active"
+    },
+    "Player2Used": {
+      "groupType": "deck",
+      "label": "Player 2 Used",
+      "onCardEnter": {
+        "controller": "player2",
+        "deckGroupId": "Player2Used"
+      },
+      "tableLabel": "Player 2 Used"
+    },
+    "player1Hand": {
+      "groupType": "hand",
+      "label": "Player 1 Hand",
+      "onCardEnter": {
+        "controller": "player1"
+      },
+      "tableLabel": "Player 1 Hand"
+    },
+    "player1Lost": {
+      "groupType": "discard",
+      "label": "Player 1 Lost",
+      "onCardEnter": {
+        "controller": "player1",
+        "deckGroupId": "player1Reserve",
+        "discardGroupId": "player1Lost"
+      },
+      "tableLabel": "Player 1 Lost"
+    },
+    "player1PlayArea": {
+      "groupType": "inPlay",
+      "label": "Player 1 Play Area",
+      "onCardEnter": {
+        "controller": "player1"
+      },
+      "tableLabel": "Player 1 Play Area"
+    },
+    "player1Reserve": {
+      "groupType": "deck",
+      "label": "Player 1 Reserve",
+      "onCardEnter": {
+        "controller": "player1",
+        "deckGroupId": "player1Reserve",
+        "discardGroupId": "player1Lost"
+      },
+      "tableLabel": "Player 1 Reserve"
+    },
+    "player2Hand": {
+      "groupType": "hand",
+      "label": "Player 2 Hand",
+      "onCardEnter": {
+        "controller": "player2"
+      },
+      "tableLabel": "Player 2 Hand"
+    },
+    "player2Lost": {
+      "groupType": "discard",
+      "label": "Player 2 Lost",
+      "onCardEnter": {
+        "controller": "player2",
+        "deckGroupId": "player2Reserve",
+        "discardGroupId": "player2Lost"
+      },
+      "tableLabel": "Player 2 Lost"
+    },
+    "player2PlayArea": {
+      "groupType": "inPlay",
+      "label": "Player 2 Play Area",
+      "onCardEnter": {
+        "controller": "player2"
+      },
+      "tableLabel": "Player 2 Play Area"
+    },
+    "player2Reserve": {
+      "groupType": "deck",
+      "label": "Player 2 Reserve",
+      "onCardEnter": {
+        "controller": "player2",
+        "deckGroupId": "player2Reserve",
+        "discardGroupId": "player2Lost"
+      },
+      "tableLabel": "Player 2 Reserve"
+    },
+    "sharedLocations": {
+      "groupType": "inPlay",
+      "label": "Locations",
+      "onCardEnter": {
+        "controller": "shared"
+      },
+      "tableLabel": "Locations"
+    },
+    "sharedStack": {
+      "groupType": "inPlay",
+      "label": "The Stack",
+      "onCardEnter": {
+        "controller": "shared"
+      },
+      "tableLabel": "The Stack"
+    }
+  }
+}

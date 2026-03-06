@@ -1,0 +1,114 @@
+{
+  "preBuiltDecks": {
+    "sampleDeck1": {
+      "cards": [
+        {
+          "databaseId": "f475885b-7840-4e97-ae6f-2c1b4ef87e1e",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "f8d5707e-e182-4248-b9b7-dc30592fe0c0",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "bf9676f0-71cb-4b7a-ba7e-e86eba1138a2",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "e1cdb6f6-7288-407f-8446-7e5303c50a2c",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "bace4eb6-a51a-412e-9a7f-c3980e856643",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "d62d12dd-9feb-4405-b5e5-1054d2216691",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "7bbf45d4-eae8-40d3-8191-f8da1d7de6f5",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "7d2f49e9-bd09-46a8-99b8-cc588f756489",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "8985660b-a9b0-4a15-ace7-a5dd1c58f038",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        }
+      ],
+      "label": "Sample Deck 1"
+    },
+    "sampleDeck2": {
+      "cards": [
+        {
+          "databaseId": "d63c067f-dfe1-4025-a8f9-b1abf1ded291",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "e1cdb6f6-7288-407f-8446-7e5303c50a2c",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "17e95f48-b91e-4504-b65d-f8e3c0a1c95b",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "d802370b-8d81-4675-84c8-c8958b0e7403",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "ac459e72-510a-411c-afac-324cbfa8d7a7",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "82978ddf-fb30-46eb-8f34-7a31e29e0947",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "ccd09767-fc51-4e98-a60a-c065f29b26f4",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "a8e4b9a6-140d-4315-90b9-854a27ec1f8c",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "f475885b-7840-4e97-ae6f-2c1b4ef87e1e",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        },
+        {
+          "databaseId": "b9cc3a5f-474c-4d54-9e12-de6b27bf7b5d",
+          "loadGroupId": "player1Reserve",
+          "quantity": 1
+        }
+      ],
+      "label": "Sample Deck 2"
+    }
+  }
+}

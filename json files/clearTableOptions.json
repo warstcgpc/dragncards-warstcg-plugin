@@ -1,0 +1,36 @@
+{
+  "clearTableOptions": [
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "goodGuysWin"
+      ],
+      "label": "Good guys win"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "badGuysWin"
+      ],
+      "label": "Bad guys win"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "tie"
+      ],
+      "label": "Tie"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "incomplete"
+      ],
+      "label": "Incomplete"
+    }
+  ]
+}

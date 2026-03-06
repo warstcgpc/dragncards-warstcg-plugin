@@ -1,0 +1,9 @@
+{
+  "cardBacks": {
+    "normal": {
+      "height": 1,
+      "imageUrl": "https://warstcg.org//img/wars_card_back.jpg",
+      "width": 0.72
+    }
+  }
+}

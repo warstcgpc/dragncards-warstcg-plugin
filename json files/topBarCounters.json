@@ -1,0 +1,11 @@
+{
+  "topBarCounters": {
+    "shared": [
+      {
+        "gameProperty": "roundNumber",
+        "imageUrl": "",
+        "label": "Round"
+      }
+    ]
+  }
+}

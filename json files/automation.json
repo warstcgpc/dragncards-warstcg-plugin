@@ -1,0 +1,18 @@
+{
+  "automation": {
+    "cards": {},
+    "gameRules": {},
+    "postLoadActionList": [
+      [
+        "LOG",
+        "{{$PLAYER_N}} loaded some cards."
+      ]
+    ],
+    "postNewGameActionList": [
+      [
+        "LOG",
+        "A new game was created."
+      ]
+    ]
+  }
+}

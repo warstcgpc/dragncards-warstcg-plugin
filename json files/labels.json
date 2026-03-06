@@ -1,0 +1,76 @@
+{
+  "labels": {
+      "step-1.0": {
+      "English": "Total the amount of energy generated for you by the energy icons on all locations, then add 1 to that total. You may activate up to this much energy."
+    },
+    "step-2.1": {
+        "English": "You may perform a drain action during your control phase when the stack is empty once at each target location that you control that has at least one energy icon on the side facing your opponent."
+    },
+    "step-3.1": {
+        "English": "3.1: You may play cards from your hand."
+    },
+    "step-4.1": {
+        "English": "4.1: May Pay 1 Energy to begin a battle at a location where both players have a unit and/or ship."
+    },
+    "step-4.2": {
+        "English": "4.2: Play interrupts/use activated abilities."
+    },
+    "step-4.3": {
+        "English": "4.3: Battle Destiny (Tactics 4 or more = Draw Destiny)"
+    },
+    "step-4.4": {
+        "English": "4.4: Play interrupts/use activated abilities."
+    },
+    "step-4.5": {
+        "English": "4.5: Attrition Step."
+    },
+    "step-4.6": {
+        "English": "4.6: Play interrupts/use activated abilities."
+    },
+    "step-4.7": {
+        "English": "4.7: Power Step."
+    },
+    "step-4.8": {
+        "English": "4.8: Play interrupts/use activated abilities."
+    },
+    "step-4.9": {
+        "English": "4.9: Loss Step."
+    },
+    "step-4.10": {
+        "English": "4.10: Play interrupts/use activated abilities."
+    },
+    "step-4.11": {
+        "English": "4.11: End of Battle. May start a new battle at a new location."
+    },
+    "step-5.1": {
+        "English": "5.1: You may perform movement actions to move your ships and units. Each movement action costs you 1 energy. You may perform more than one movement action with the same ship or unit during the same move phase."
+    },
+    "step-6.1": {
+        "English": "In this phase, you may draw cards from the top of your active pile. There’s no limit to the number of cards you may draw. Each card drawn is a single draw action. You may see the card you get when you perform one draw action before deciding to draw another."
+    },
+    "step-7.0": {
+        "English": "7.0: End of Turn."
+    },
+    "Activate": {
+        "English": "Activate"
+    },
+    "Control": {
+        "English": "Control"
+    },
+    "Deploy": {
+        "English": "Deploy"
+    },
+    "Battle": {
+        "English": "Battle"
+    },
+    "Move": {
+        "English": "Move"
+    },
+    "Draw": {
+        "English": "Draw"
+    },
+    "End": {
+        "English": "End"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "deckbuilder": {
+    "addButtons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "columns": [
+      {
+        "label": "Name",
+        "propName": "name"
+      },
+      {
+        "label": "Type",
+        "propName": "type"
+      },
+      {
+        "label": "Number In Pack",
+        "propName": "numberInPack"
+      },
+      {
+        "label": "Faction",
+        "propName": "faction"
+      },
+      {
+        "label": "Pack Name",
+        "propName": "packName"
+      }
+    ],
+    "spawnGroups": []
+  }
+}

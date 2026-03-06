@@ -1,0 +1,29 @@
+{
+  "deckMenu": {
+    "subMenus": [
+      {
+        "deckLists": [
+          {
+            "deckListId": "sampleDeck1",
+            "label": "Sample Deck 1"
+          }
+        ],
+        "label": "Sample Decks"
+      },
+      {
+        "label": "More Sample Decks",
+        "subMenus": [
+          {
+            "deckLists": [
+              {
+                "deckListId": "sampleDeck2",
+                "label": "Sample Deck 2"
+              }
+            ],
+            "label": "Nested Menu"
+          }
+        ]
+      }
+    ]
+  }
+}
