@@ -71,6 +71,9 @@
     },
     "End": {
         "English": "End"
+    },
+    "myDeck": {
+        "English": "My Deck (Reserve)"
     }
   }
 }
