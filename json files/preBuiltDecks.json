@@ -3,112 +3,366 @@
     "sampleDeck1": {
       "cards": [
         {
-          "databaseId": "f475885b-7840-4e97-ae6f-2c1b4ef87e1e",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "f31e4f4d-2232-4f87-8254-a472413a8853",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Shikami Follower"
         },
         {
-          "databaseId": "f8d5707e-e182-4248-b9b7-dc30592fe0c0",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "7b325dc4-5cce-4296-8555-63ce8301eeca",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Inca 2"
         },
         {
-          "databaseId": "bf9676f0-71cb-4b7a-ba7e-e86eba1138a2",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "a5143007-c287-485d-b49d-abdb7ee8799b",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Earth/Humanity's Home"
         },
         {
-          "databaseId": "e1cdb6f6-7288-407f-8446-7e5303c50a2c",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
-        },
-        {
-          "databaseId": "bace4eb6-a51a-412e-9a7f-c3980e856643",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Exploratory Camp"
         },
         {
           "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Pilgrims' Camp"
         },
         {
-          "databaseId": "d62d12dd-9feb-4405-b5e5-1054d2216691",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "256a7a7b-bb54-459e-997d-16dbc940caf6",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Jossel Swin"
         },
         {
-          "databaseId": "7bbf45d4-eae8-40d3-8191-f8da1d7de6f5",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "f475885b-7840-4e97-ae6f-2c1b4ef87e1e",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Horatio Hicks"
         },
         {
-          "databaseId": "7d2f49e9-bd09-46a8-99b8-cc588f756489",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "d4d243f9-aa0d-4d85-a30a-56bbd099b2a8",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Infantry Officer"
         },
         {
-          "databaseId": "8985660b-a9b0-4a15-ace7-a5dd1c58f038",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "88b6a2cb-8fe0-4c8b-b64d-a16b3f5f52ce",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Infantry Support Vehicle"
+        },
+        {
+          "databaseId": "59f05892-bfcc-4e5e-a788-22315cd71c53",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "GR-Blade"
+        },
+        {
+          "databaseId": "eddda08d-d85f-4e01-a648-0c278b254d84",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Survey Cruiser"
+        },
+        {
+          "databaseId": "a7274151-f092-436c-ad2c-4905abf9a81f",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Corporate Transport"
+        },
+        {
+          "databaseId": "94a70c3f-56f9-4a64-b098-8daa8d944006",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Shikami T.S.V."
+        },
+        {
+          "databaseId": "be90357d-a54d-400c-b030-94ba75a9a99c",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Resource Technician"
+        },
+        {
+          "databaseId": "216ea401-352e-4b2f-bb9d-35750aa1fb39",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Luna/Military Outpost"
+        },
+        {
+          "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Ganymede/Vantage Point"
+        },
+        {
+          "databaseId": "e3b05537-e1f3-47ea-9922-02882ded43a7",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Ganymede/Underground Bunker - Rewards Store"
+        },
+        {
+          "databaseId": "52ae1c06-688a-4e31-a26f-134a09262faa",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Ganymede/Traginium Source"
+        },
+        {
+          "databaseId": "e8c6308f-cd80-454a-a0d4-0ad1f7b778a5",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Untold Power of Visions"
+        },
+        {
+          "databaseId": "9b93b78d-e6a2-4cdb-9745-6f50473066ec",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Sidearm"
+        },
+        {
+          "databaseId": "c91d3a8c-3d57-406b-90c5-50a8cfa95390",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Shift in Tactics"
+        },
+        {
+          "databaseId": "16333cc8-3f3f-4d35-8e21-84dd9571f35f",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Escort Cruiser"
+        },
+        {
+          "databaseId": "15994dbb-0bd3-49ea-af62-69b05e427b1f",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Zocho"
+        },
+        {
+          "databaseId": "1d188ad1-0ec2-4322-8a50-69a3107653b8",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Tamon Fighter"
+        },
+        {
+          "databaseId": "50813028-d51c-4a9f-96d7-21c0f96fc9aa",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Jet Pack Attack"
+        },
+        {
+          "databaseId": "a4eb35e2-4c5d-4cf7-8fac-24508a3a3acf",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Gongen Katana"
+        },
+        {
+          "databaseId": "9e763c5f-d1bf-4fba-bfa5-c218e5169a60",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Close Support Pilot"
+        },
+        {
+          "databaseId": "cdee4a41-6bc0-443b-aef3-69b1746c26a5",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Veteran Pilot"
+        },
+        {
+          "databaseId": "9873219f-bb97-4113-a961-6ae1f9026297",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Gongen Bot"
         }
       ],
-      "label": "Sample Deck 1"
+      "label": "Sample Deck A"
     },
     "sampleDeck2": {
       "cards": [
         {
-          "databaseId": "d63c067f-dfe1-4025-a8f9-b1abf1ded291",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "0df7b409-ad67-48a9-9e27-d42f342b8d85",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Alnak Station/Captured Base"
         },
         {
-          "databaseId": "e1cdb6f6-7288-407f-8446-7e5303c50a2c",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "32e2f0bd-bdfe-49c9-8f16-a974f9761c20",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Natural Talent"
         },
         {
-          "databaseId": "17e95f48-b91e-4504-b65d-f8e3c0a1c95b",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Independent Transport"
         },
         {
-          "databaseId": "d802370b-8d81-4675-84c8-c8958b0e7403",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "1161ee27-4b5a-45d0-8561-e7c91d477c54",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Sprinkle's Deal"
         },
         {
-          "databaseId": "ac459e72-510a-411c-afac-324cbfa8d7a7",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Frontier Camp"
         },
         {
-          "databaseId": "82978ddf-fb30-46eb-8f34-7a31e29e0947",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Hunters' Camp"
         },
         {
-          "databaseId": "ccd09767-fc51-4e98-a60a-c065f29b26f4",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Ganymede/Vantage Point"
         },
         {
-          "databaseId": "a8e4b9a6-140d-4315-90b9-854a27ec1f8c",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "05277bd7-a2c7-4d4a-b683-7d2d1918b7c5",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Themis/Mobile Asteroid"
         },
         {
-          "databaseId": "f475885b-7840-4e97-ae6f-2c1b4ef87e1e",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "7264dd25-e675-47d5-bf46-0e90c6b21b77",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "\"?\"\"Two-Way\"\" Berson\""
         },
         {
-          "databaseId": "b9cc3a5f-474c-4d54-9e12-de6b27bf7b5d",
-          "loadGroupId": "player1Reserve",
-          "quantity": 1
+          "databaseId": "422b933c-3f02-499a-bb74-c2b3219634c1",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Sultry Opportunist"
+        },
+        {
+          "databaseId": "714c3cf4-5ca6-4cc7-9d7b-486c39f575d1",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "General Bots NAV4"
+        },
+        {
+          "databaseId": "899e67cc-549d-41f6-a05b-17ccf3bb244c",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Up the Sleeve"
+        },
+        {
+          "databaseId": "62ad37a7-c989-4cc1-b3a8-0c7ab9ec5650",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Katal Dalaka"
+        },
+        {
+          "databaseId": "de28326f-04dc-43a6-a993-31b651d4a438",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Luhus Dalaka"
+        },
+        {
+          "databaseId": "684ffe8f-5c12-4de5-b5de-76bd445eec05",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Hawk's Wing"
+        },
+        {
+          "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Independent Transport"
+        },
+        {
+          "databaseId": "1eb6c500-bc15-421c-99b5-7a64cc2833b0",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Makal Claw Beast"
+        },
+        {
+          "databaseId": "7c06d2bd-f96d-4150-a613-65401b994fad",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Katal Inciter"
+        },
+        {
+          "databaseId": "14f8f2ac-7508-45ae-ad80-611016bdf526",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Qurim Life Ship"
+        },
+        {
+          "databaseId": "78bdbbd6-d69a-425a-bf81-9373ebe726b5",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Quay Navigator"
+        },
+        {
+          "databaseId": "1d0eaf7c-819d-4451-8c50-498e36c81d35",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "?The Gambler"
+        },
+        {
+          "databaseId": "e6b24b44-7b9d-4686-b618-2fff3aa9a5c9",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Hellcat Aviatrix"
+        },
+        {
+          "databaseId": "861eeb6f-cc51-4982-ac29-04642c065caa",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "?Jack Wilgress"
+        },
+        {
+          "databaseId": "40ea84d8-81cb-46a6-a143-b6d8917792ea",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Raider"
+        },
+        {
+          "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Frontier Camp"
+        },
+        {
+          "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Hunters' Camp"
+        },
+        {
+          "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Hunters' Camp"
+        },
+        {
+          "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+          "quantity": 1,
+          "loadGroupId": "playerNReserve",
+          "_name": "Ganymede/Frontier Camp"
+        },
+        {
+          "databaseId": "ce480795-2eea-42c5-96bf-845b495e4ae3",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Maverick Bot"
+        },
+        {
+          "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+          "quantity": 2,
+          "loadGroupId": "playerNReserve",
+          "_name": "Stinger"
         }
       ],
-      "label": "Sample Deck 2"
+      "label": "Sample Deck B"
     }
   }
 }

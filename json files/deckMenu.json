@@ -3,26 +3,25 @@
     "subMenus": [
       {
         "deckLists": [
-          {
-            "deckListId": "sampleDeck1",
-            "label": "Sample Deck 1"
+          {"deckListId": "sampleDeck1",
+            "label": "Sample Deck A"
+          },
+          {"deckListId": "sampleDeck2",
+            "label": "Sample Deck B"
           }
         ],
-        "label": "Sample Decks"
+        "label": "Demo Game Decks"
       },
       {
-        "label": "More Sample Decks",
-        "subMenus": [
-          {
-            "deckLists": [
-              {
-                "deckListId": "sampleDeck2",
-                "label": "Sample Deck 2"
-              }
-            ],
-            "label": "Nested Menu"
+        "deckLists": [
+          {"deckListId": "sampleDeck1",
+            "label": "Sample Deck A"
+          },
+          {"deckListId": "sampleDeck2",
+            "label": "Sample Deck B"
           }
-        ]
+        ],
+        "label": "Incursion Starters"
       }
     ]
   }
