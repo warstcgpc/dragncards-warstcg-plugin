@@ -14,8 +14,12 @@
         {
             "label": "id:invert",
             "actionList": "invertCard"
+        },
+        {
+            "label": "id:damage",
+            "actionList": "damageCard"
         }
     ],
-    "suppress": ["Delete", "Toggle Trigger", "Set Rotation"]
+    "suppress": ["Delete", "Toggle Trigger"]
   }
 }
