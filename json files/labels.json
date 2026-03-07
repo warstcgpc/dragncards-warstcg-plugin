@@ -49,7 +49,7 @@
         "English": "In this phase, you may draw cards from the top of your active pile. There’s no limit to the number of cards you may draw. Each card drawn is a single draw action. You may see the card you get when you perform one draw action before deciding to draw another."
     },
     "step-7.0": {
-        "English": "7.0: End of Turn. Move Used Pile to Bottom of Reserve."
+        "English": "7.0: End of Turn. Click the 3-line menu on your Used pile and choose 'Move to -> PlayerXReserve -> Bottom'"
     },
     "Activate": {
         "English": "Activate"
