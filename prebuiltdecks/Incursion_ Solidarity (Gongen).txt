@@ -1,0 +1,362 @@
+[
+  {
+    "databaseId": "f4cab8a3-41cd-470b-88ad-d0f81c6eacff",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Kujiko Torako"
+  },
+  {
+    "databaseId": "0a209c37-ff30-4ecd-bcb9-f6dcee222abc",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Loremaster - Starter Deck"
+  },
+  {
+    "databaseId": "790864d4-dd31-46b0-a697-51c135bdcfda",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Zocho - Starter Deck"
+  },
+  {
+    "databaseId": "f4cab8a3-41cd-470b-88ad-d0f81c6eacff",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Kujiko Torako"
+  },
+  {
+    "databaseId": "3107540b-1b82-443f-8288-b1c768af5013",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Cloud - Starter Deck"
+  },
+  {
+    "databaseId": "e3b05537-e1f3-47ea-9922-02882ded43a7",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Underground Bunker - Rewards Store"
+  },
+  {
+    "databaseId": "be90357d-a54d-400c-b030-94ba75a9a99c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Resource Technician"
+  },
+  {
+    "databaseId": "1d188ad1-0ec2-4322-8a50-69a3107653b8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tamon Fighter"
+  },
+  {
+    "databaseId": "23495766-7add-4fd1-b888-360c964adf83",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Grid Tactician"
+  },
+  {
+    "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Pilgrims' Camp"
+  },
+  {
+    "databaseId": "8027261a-efbb-4157-8cf0-7562e4b07e48",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Jikoku Fighter"
+  },
+  {
+    "databaseId": "6f5c9550-de1c-4ed9-8640-f6b85b8c4c7a",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Dauntless Defense"
+  },
+  {
+    "databaseId": "8027261a-efbb-4157-8cf0-7562e4b07e48",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Jikoku Fighter"
+  },
+  {
+    "databaseId": "f22f5da4-492b-45b2-b370-2e207827e428",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi Leader"
+  },
+  {
+    "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Pilgrims' Camp"
+  },
+  {
+    "databaseId": "23495766-7add-4fd1-b888-360c964adf83",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Grid Tactician"
+  },
+  {
+    "databaseId": "900106f7-8026-49e1-a444-46287ec49e46",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi T.S.V."
+  },
+  {
+    "databaseId": "f22f5da4-492b-45b2-b370-2e207827e428",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi Leader"
+  },
+  {
+    "databaseId": "8027261a-efbb-4157-8cf0-7562e4b07e48",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Jikoku Fighter"
+  },
+  {
+    "databaseId": "23495766-7add-4fd1-b888-360c964adf83",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Grid Tactician"
+  },
+  {
+    "databaseId": "be90357d-a54d-400c-b030-94ba75a9a99c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Resource Technician"
+  },
+  {
+    "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Pilgrims' Camp"
+  },
+  {
+    "databaseId": "900106f7-8026-49e1-a444-46287ec49e46",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi T.S.V."
+  },
+  {
+    "databaseId": "be90357d-a54d-400c-b030-94ba75a9a99c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Resource Technician"
+  },
+  {
+    "databaseId": "23495766-7add-4fd1-b888-360c964adf83",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Grid Tactician"
+  },
+  {
+    "databaseId": "238a9d5f-73d1-41bc-8dec-63dede545078",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Guardian-Class Carrier"
+  },
+  {
+    "databaseId": "900106f7-8026-49e1-a444-46287ec49e46",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi T.S.V."
+  },
+  {
+    "databaseId": "72fdaa71-df50-4f6f-b536-b133e9da8f7c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zocho Fighter"
+  },
+  {
+    "databaseId": "f31e4f4d-2232-4f87-8254-a472413a8853",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami Follower"
+  },
+  {
+    "databaseId": "2c7c29de-e15a-4542-979a-d3197e9e7acb",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ceres/Belt Hideaway"
+  },
+  {
+    "databaseId": "6f5c9550-de1c-4ed9-8640-f6b85b8c4c7a",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Dauntless Defense"
+  },
+  {
+    "databaseId": "f31e4f4d-2232-4f87-8254-a472413a8853",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami Follower"
+  },
+  {
+    "databaseId": "1d188ad1-0ec2-4322-8a50-69a3107653b8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tamon Fighter"
+  },
+  {
+    "databaseId": "72fdaa71-df50-4f6f-b536-b133e9da8f7c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zocho Fighter"
+  },
+  {
+    "databaseId": "cbc70e2e-4090-48e6-a0f3-f69c5a8e2389",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Komoku"
+  },
+  {
+    "databaseId": "94a70c3f-56f9-4a64-b098-8daa8d944006",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami T.S.V."
+  },
+  {
+    "databaseId": "6f5c9550-de1c-4ed9-8640-f6b85b8c4c7a",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Dauntless Defense"
+  },
+  {
+    "databaseId": "1d188ad1-0ec2-4322-8a50-69a3107653b8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tamon Fighter"
+  },
+  {
+    "databaseId": "238a9d5f-73d1-41bc-8dec-63dede545078",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Guardian-Class Carrier"
+  },
+  {
+    "databaseId": "f22f5da4-492b-45b2-b370-2e207827e428",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi Leader"
+  },
+  {
+    "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Pilgrims' Camp"
+  },
+  {
+    "databaseId": "238a9d5f-73d1-41bc-8dec-63dede545078",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Guardian-Class Carrier"
+  },
+  {
+    "databaseId": "52ae1c06-688a-4e31-a26f-134a09262faa",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Traginium Source"
+  },
+  {
+    "databaseId": "72fdaa71-df50-4f6f-b536-b133e9da8f7c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zocho Fighter"
+  },
+  {
+    "databaseId": "31d1e807-fa56-4258-8241-3e9ea2dc6e56",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Taihu"
+  },
+  {
+    "databaseId": "f31e4f4d-2232-4f87-8254-a472413a8853",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami Follower"
+  },
+  {
+    "databaseId": "8027261a-efbb-4157-8cf0-7562e4b07e48",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Jikoku Fighter"
+  },
+  {
+    "databaseId": "31d1e807-fa56-4258-8241-3e9ea2dc6e56",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Taihu"
+  },
+  {
+    "databaseId": "900106f7-8026-49e1-a444-46287ec49e46",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi T.S.V."
+  },
+  {
+    "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Pilgrims' Camp"
+  },
+  {
+    "databaseId": "6ff7a055-68f5-4107-a0d4-8d54f6f6fd67",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Gongen/Pilgrims' Haven"
+  },
+  {
+    "databaseId": "94a70c3f-56f9-4a64-b098-8daa8d944006",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami T.S.V."
+  },
+  {
+    "databaseId": "72fdaa71-df50-4f6f-b536-b133e9da8f7c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zocho Fighter"
+  },
+  {
+    "databaseId": "94a70c3f-56f9-4a64-b098-8daa8d944006",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami T.S.V."
+  },
+  {
+    "databaseId": "f22f5da4-492b-45b2-b370-2e207827e428",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ikazuchi Leader"
+  },
+  {
+    "databaseId": "92201883-4de3-4664-b7c4-4bfe194b2d16",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Rising Morale"
+  },
+  {
+    "databaseId": "fae4d8ef-f48d-49d1-995d-db7069abc2d5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Mercury/Untapped Planet"
+  },
+  {
+    "databaseId": "31d1e807-fa56-4258-8241-3e9ea2dc6e56",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Taihu"
+  },
+  {
+    "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Vantage Point"
+  },
+  {
+    "databaseId": "92201883-4de3-4664-b7c4-4bfe194b2d16",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Rising Morale"
+  }
+]

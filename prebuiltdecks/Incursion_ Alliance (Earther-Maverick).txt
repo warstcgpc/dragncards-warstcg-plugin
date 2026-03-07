@@ -1,0 +1,362 @@
+[
+  {
+    "databaseId": "256a7a7b-bb54-459e-997d-16dbc940caf6",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Jossel Swin"
+  },
+  {
+    "databaseId": "80510dc5-044a-4ab3-91e7-cdb03f46ac72",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Survey Cruiser - Starter Deck"
+  },
+  {
+    "databaseId": "91c0fa12-4278-4782-aa96-6435b72a57b7",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "State of Readiness - Starter Deck"
+  },
+  {
+    "databaseId": "256a7a7b-bb54-459e-997d-16dbc940caf6",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Jossel Swin"
+  },
+  {
+    "databaseId": "2ffa8c85-4dbf-40a2-a4e8-bae085b27f4b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Fifth Ace - Starter Deck"
+  },
+  {
+    "databaseId": "2027e9bc-f8ec-4066-8c18-8e34dd609d73",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Earth/Corporate Headquarters"
+  },
+  {
+    "databaseId": "df53277b-5fec-4094-ad22-563c9790aed6",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "F.L.I.C."
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "df53277b-5fec-4094-ad22-563c9790aed6",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "F.L.I.C."
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "ef859f36-1013-48dd-9ec0-d6e63596fcf2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "CGC Grunt"
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "38bfaa4b-45c4-42bf-ae92-3511c5eafbbd",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zealous Squad"
+  },
+  {
+    "databaseId": "59f05892-bfcc-4e5e-a788-22315cd71c53",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "GR-Blade"
+  },
+  {
+    "databaseId": "d4d243f9-aa0d-4d85-a30a-56bbd099b2a8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Officer"
+  },
+  {
+    "databaseId": "ef859f36-1013-48dd-9ec0-d6e63596fcf2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "CGC Grunt"
+  },
+  {
+    "databaseId": "3402ee12-9b11-4c13-86c0-3621cfa5441d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assault Guru"
+  },
+  {
+    "databaseId": "b9c72827-d9fd-455d-b212-fa498e4479ea",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Vulture"
+  },
+  {
+    "databaseId": "2c7c29de-e15a-4542-979a-d3197e9e7acb",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ceres/Belt Hideaway"
+  },
+  {
+    "databaseId": "420303d2-34ba-4a82-b8b3-036c91354a1c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Valley"
+  },
+  {
+    "databaseId": "38bfaa4b-45c4-42bf-ae92-3511c5eafbbd",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zealous Squad"
+  },
+  {
+    "databaseId": "126c6601-0cdb-492f-85e1-0f5405502b36",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Themis/Landing Pad"
+  },
+  {
+    "databaseId": "b9c72827-d9fd-455d-b212-fa498e4479ea",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Vulture"
+  },
+  {
+    "databaseId": "d4d243f9-aa0d-4d85-a30a-56bbd099b2a8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Officer"
+  },
+  {
+    "databaseId": "2e59a921-a4d1-447f-85df-c4db8b325a2d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Consigned Trooper"
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "2e59a921-a4d1-447f-85df-c4db8b325a2d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Consigned Trooper"
+  },
+  {
+    "databaseId": "df53277b-5fec-4094-ad22-563c9790aed6",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "F.L.I.C."
+  },
+  {
+    "databaseId": "cb28d351-1d48-468d-adcb-62a712b0bd0e",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Collaborative Strike"
+  },
+  {
+    "databaseId": "38bfaa4b-45c4-42bf-ae92-3511c5eafbbd",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zealous Squad"
+  },
+  {
+    "databaseId": "b9c72827-d9fd-455d-b212-fa498e4479ea",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Vulture"
+  },
+  {
+    "databaseId": "ef859f36-1013-48dd-9ec0-d6e63596fcf2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "CGC Grunt"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "c4437caa-fa73-4da8-a27a-d0d11e9f66d8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Entrenched Infantry"
+  },
+  {
+    "databaseId": "59f05892-bfcc-4e5e-a788-22315cd71c53",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "GR-Blade"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "d4d243f9-aa0d-4d85-a30a-56bbd099b2a8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Officer"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "3402ee12-9b11-4c13-86c0-3621cfa5441d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assault Guru"
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "d4d243f9-aa0d-4d85-a30a-56bbd099b2a8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Officer"
+  },
+  {
+    "databaseId": "ef859f36-1013-48dd-9ec0-d6e63596fcf2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "CGC Grunt"
+  },
+  {
+    "databaseId": "3402ee12-9b11-4c13-86c0-3621cfa5441d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assault Guru"
+  },
+  {
+    "databaseId": "59f05892-bfcc-4e5e-a788-22315cd71c53",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "GR-Blade"
+  },
+  {
+    "databaseId": "2e59a921-a4d1-447f-85df-c4db8b325a2d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Consigned Trooper"
+  },
+  {
+    "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Vantage Point"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "59f05892-bfcc-4e5e-a788-22315cd71c53",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "GR-Blade"
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "b9c72827-d9fd-455d-b212-fa498e4479ea",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Vulture"
+  },
+  {
+    "databaseId": "c4437caa-fa73-4da8-a27a-d0d11e9f66d8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Entrenched Infantry"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "3402ee12-9b11-4c13-86c0-3621cfa5441d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assault Guru"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "ce480795-2eea-42c5-96bf-845b495e4ae3",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Maverick Bot"
+  },
+  {
+    "databaseId": "7be057a9-ea81-4bd6-b451-e7d784f70307",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Earther Bot"
+  },
+  {
+    "databaseId": "cb28d351-1d48-468d-adcb-62a712b0bd0e",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Collaborative Strike"
+  }
+]

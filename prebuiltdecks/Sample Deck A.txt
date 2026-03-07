@@ -1,0 +1,176 @@
+[
+  {
+    "databaseId": "f31e4f4d-2232-4f87-8254-a472413a8853",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami Follower"
+  },
+  {
+    "databaseId": "7b325dc4-5cce-4296-8555-63ce8301eeca",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Inca 2"
+  },
+  {
+    "databaseId": "a5143007-c287-485d-b49d-abdb7ee8799b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Earth/Humanity's Home"
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "2cfbf7c7-2551-4b5f-9810-e30cf118be0c",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Pilgrims' Camp"
+  },
+  {
+    "databaseId": "256a7a7b-bb54-459e-997d-16dbc940caf6",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Jossel Swin"
+  },
+  {
+    "databaseId": "f475885b-7840-4e97-ae6f-2c1b4ef87e1e",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Horatio Hicks"
+  },
+  {
+    "databaseId": "d4d243f9-aa0d-4d85-a30a-56bbd099b2a8",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Officer"
+  },
+  {
+    "databaseId": "88b6a2cb-8fe0-4c8b-b64d-a16b3f5f52ce",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Support Vehicle"
+  },
+  {
+    "databaseId": "59f05892-bfcc-4e5e-a788-22315cd71c53",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "GR-Blade"
+  },
+  {
+    "databaseId": "eddda08d-d85f-4e01-a648-0c278b254d84",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Survey Cruiser"
+  },
+  {
+    "databaseId": "a7274151-f092-436c-ad2c-4905abf9a81f",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Corporate Transport"
+  },
+  {
+    "databaseId": "94a70c3f-56f9-4a64-b098-8daa8d944006",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shikami T.S.V."
+  },
+  {
+    "databaseId": "be90357d-a54d-400c-b030-94ba75a9a99c",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Resource Technician"
+  },
+  {
+    "databaseId": "216ea401-352e-4b2f-bb9d-35750aa1fb39",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Luna/Military Outpost"
+  },
+  {
+    "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Vantage Point"
+  },
+  {
+    "databaseId": "e3b05537-e1f3-47ea-9922-02882ded43a7",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Underground Bunker - Rewards Store"
+  },
+  {
+    "databaseId": "52ae1c06-688a-4e31-a26f-134a09262faa",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Traginium Source"
+  },
+  {
+    "databaseId": "e8c6308f-cd80-454a-a0d4-0ad1f7b778a5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Untold Power of Visions"
+  },
+  {
+    "databaseId": "9b93b78d-e6a2-4cdb-9745-6f50473066ec",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sidearm"
+  },
+  {
+    "databaseId": "c91d3a8c-3d57-406b-90c5-50a8cfa95390",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Shift in Tactics"
+  },
+  {
+    "databaseId": "16333cc8-3f3f-4d35-8e21-84dd9571f35f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Escort Cruiser"
+  },
+  {
+    "databaseId": "15994dbb-0bd3-49ea-af62-69b05e427b1f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Zocho"
+  },
+  {
+    "databaseId": "1d188ad1-0ec2-4322-8a50-69a3107653b8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tamon Fighter"
+  },
+  {
+    "databaseId": "50813028-d51c-4a9f-96d7-21c0f96fc9aa",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Jet Pack Attack"
+  },
+  {
+    "databaseId": "a4eb35e2-4c5d-4cf7-8fac-24508a3a3acf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Gongen Katana"
+  },
+  {
+    "databaseId": "9e763c5f-d1bf-4fba-bfa5-c218e5169a60",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Close Support Pilot"
+  },
+  {
+    "databaseId": "cdee4a41-6bc0-443b-aef3-69b1746c26a5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Veteran Pilot"
+  },
+  {
+    "databaseId": "9873219f-bb97-4113-a961-6ae1f9026297",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Gongen Bot"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "databaseId": "0df7b409-ad67-48a9-9e27-d42f342b8d85",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Alnak Station/Captured Base"
+  },
+  {
+    "databaseId": "32e2f0bd-bdfe-49c9-8f16-a974f9761c20",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Natural Talent"
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "1161ee27-4b5a-45d0-8561-e7c91d477c54",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sprinkle's Deal"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Hunters' Camp"
+  },
+  {
+    "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Vantage Point"
+  },
+  {
+    "databaseId": "05277bd7-a2c7-4d4a-b683-7d2d1918b7c5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Themis/Mobile Asteroid"
+  },
+  {
+    "databaseId": "7264dd25-e675-47d5-bf46-0e90c6b21b77",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "\"?\"\"Two-Way\"\" Berson\""
+  },
+  {
+    "databaseId": "422b933c-3f02-499a-bb74-c2b3219634c1",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sultry Opportunist"
+  },
+  {
+    "databaseId": "714c3cf4-5ca6-4cc7-9d7b-486c39f575d1",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "General Bots NAV4"
+  },
+  {
+    "databaseId": "899e67cc-549d-41f6-a05b-17ccf3bb244c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Up the Sleeve"
+  },
+  {
+    "databaseId": "62ad37a7-c989-4cc1-b3a8-0c7ab9ec5650",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Katal Dalaka"
+  },
+  {
+    "databaseId": "de28326f-04dc-43a6-a993-31b651d4a438",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Luhus Dalaka"
+  },
+  {
+    "databaseId": "684ffe8f-5c12-4de5-b5de-76bd445eec05",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Hawk's Wing"
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "1eb6c500-bc15-421c-99b5-7a64cc2833b0",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Makal Claw Beast"
+  },
+  {
+    "databaseId": "7c06d2bd-f96d-4150-a613-65401b994fad",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Katal Inciter"
+  },
+  {
+    "databaseId": "14f8f2ac-7508-45ae-ad80-611016bdf526",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Qurim Life Ship"
+  },
+  {
+    "databaseId": "78bdbbd6-d69a-425a-bf81-9373ebe726b5",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Quay Navigator"
+  },
+  {
+    "databaseId": "1d0eaf7c-819d-4451-8c50-498e36c81d35",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "?The Gambler"
+  },
+  {
+    "databaseId": "e6b24b44-7b9d-4686-b618-2fff3aa9a5c9",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Hellcat Aviatrix"
+  },
+  {
+    "databaseId": "861eeb6f-cc51-4982-ac29-04642c065caa",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Jack Wilgress"
+  },
+  {
+    "databaseId": "40ea84d8-81cb-46a6-a143-b6d8917792ea",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Raider"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Hunters' Camp"
+  },
+  {
+    "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Hunters' Camp"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "ce480795-2eea-42c5-96bf-845b495e4ae3",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Maverick Bot"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 2,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  }
+]
