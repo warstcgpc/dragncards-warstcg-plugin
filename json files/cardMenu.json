@@ -4,18 +4,18 @@
       "player1Reserve",
       "player1Lost",
       "player1Hand",
-      "player1PlayArea",
-      "Player1Active",
       "Player1Used",
-      "sharedLocations",
       "player2Reserve",
       "player2Lost",
       "player2Hand",
-      "player2PlayArea",
-      "Player2Active",
-      "Player2Used",
-      "sharedStack"
+      "Player2Used"
     ],
-    "options": []
+    "options": [
+        {
+            "label": "id:invert",
+            "actionList": "invertCard"
+        }
+    ],
+    "suppress": ["Delete", "Toggle Trigger", "Set Rotation"]
   }
 }

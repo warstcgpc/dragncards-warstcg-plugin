@@ -1,3 +1,18 @@
 {
-  "actionLists": {}
+  "actionLists": {
+        "invertCard": [
+        ["COND",
+            ["EQUAL", "$ACTIVE_CARD.currentSide", "A"],
+            [
+                ["LOG", "$ALIAS_N", " inverted ", "$ACTIVE_FACE.name", " facedown."],
+                ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "C"]    
+            ],
+            true,
+            [
+                ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "A"],
+                ["LOG", "$ALIAS_N", " inverted ", "$ACTIVE_FACE.name", " faceup."]
+            ]
+        ]
+    ]
+  }
 }

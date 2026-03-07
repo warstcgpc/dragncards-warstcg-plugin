@@ -1,3 +1,14 @@
 {
-  "defaultActions": []
+  "defaultActions": [
+      {
+        "actionList": "invertCard",
+        "label": "id:invert",
+        "condition": ["AND", ["EQUAL", "$ACTIVE_CARD.currentSide", "A"], "$ACTIVE_CARD.inPlay"]
+      },  
+      {
+        "actionList": "invertCard",
+        "label": "id:invert",
+        "condition": ["AND", ["EQUAL", "$ACTIVE_CARD.currentSide", "C"], "$ACTIVE_CARD.inPlay"]
+      }
+  ]
 }

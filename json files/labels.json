@@ -74,6 +74,9 @@
     },
     "myDeck": {
         "English": "My Deck (Reserve)"
+    },
+    "invert": {
+        "English": "Invert/Revert"
     }
   }
 }
