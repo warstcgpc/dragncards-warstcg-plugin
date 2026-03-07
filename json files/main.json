@@ -1,0 +1,5 @@
+{
+    "pluginName": "WARS Trading Card Game",
+    "backgroundUrl": "https://warstcg.org//img/warsdragnbackground.webp",
+    "loadPreBuiltOnNewGame": true
+}

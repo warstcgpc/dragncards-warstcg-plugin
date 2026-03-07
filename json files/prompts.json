@@ -1,20 +1,5 @@
 {
   "prompts": {
-        "notify": {
-            "args": ["$MESSAGE"],
-            "message": "{{$MESSAGE}}",
-            "options": [
-                {
-                    "label": "OK",
-                    "hotkey": "K"
-                }
-            ]
-        },
-        "basePrompt": {
-            "args": ["$MESSAGE"],
-            "message": "$MESSAGE",
-            "options": []
-        },
         "welcome1": {
             "args": [],
             "message": "Welcome to the WARS TCG in DragnCards 2.0! You can build a custom deck under 'Builder' or load a pre-built from 'Menu -> Load -> Load Prebuilt Deck'. To draw cards or move them between piles - simply drag and drop from that pile or area to your target. At End of turn, click the menu on your lost pile and choose 'Move to -> Player1Reserve -> Bottom'. Visit https://warstcg.org for more information, and online rules.",

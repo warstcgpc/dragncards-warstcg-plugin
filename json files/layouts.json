@@ -2,6 +2,7 @@
   "layouts": {
     "default": {
       "cardSize": 11,
+      "testBorders": false,
       "chat": {
         "height": "40%",
         "left": "80%",
@@ -124,7 +125,8 @@
           "left": "0.0%",
           "top": "42.1%",
           "type": "free",
-          "width": "67.3%"
+          "width": "67.3%",
+          "style": {"background": "rgba(0, 0, 0, 0.3)"}
         },
         "sharedStack": {
           "direction": "vertical",
@@ -133,7 +135,8 @@
           "left": "68.2%",
           "top": "16.8%",
           "type": "free",
-          "width": "10.9%"
+          "width": "10.9%",
+          "style": {"background": "rgba(0, 0, 0, 0.3)"}
         }
       },
       "rowSpacing": 3
