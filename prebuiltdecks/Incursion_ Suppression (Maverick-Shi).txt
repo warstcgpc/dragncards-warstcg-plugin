@@ -1,0 +1,362 @@
+[
+  {
+    "databaseId": "4bbf5b5b-f03a-4206-9faa-e44c6bb39bd7",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ranarti-Anant"
+  },
+  {
+    "databaseId": "1edc9d8d-a723-4f30-b064-b4e7497b1336",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Selfless Protector - Starter Deck"
+  },
+  {
+    "databaseId": "64e1d1c0-ef23-4b10-b242-687f8312c4dd",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Devanar-Damir"
+  },
+  {
+    "databaseId": "4bbf5b5b-f03a-4206-9faa-e44c6bb39bd7",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ranarti-Anant"
+  },
+  {
+    "databaseId": "2889b522-3c72-41e1-8185-b8f81ac580f5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sultry Opportunist - Starter Deck"
+  },
+  {
+    "databaseId": "bec1be5e-9074-4177-974d-b0ccd43f35ff",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Forward Base"
+  },
+  {
+    "databaseId": "2a624fe7-59a6-4eb5-b951-4659f69fb531",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Well-concealed Charge"
+  },
+  {
+    "databaseId": "c051a578-b54f-4f7e-8e57-f036273c68ce",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Kizen Sentinel"
+  },
+  {
+    "databaseId": "f2b4ff80-a827-46e3-a338-e17ab815bae8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Seyalshi Upholder"
+  },
+  {
+    "databaseId": "415eb3b8-17d6-4559-a228-ca3d77ce30d2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tilak Quarrel"
+  },
+  {
+    "databaseId": "44a6b9e4-35df-4a24-b5cc-ee8f2dba9aa8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Harvesting Camp"
+  },
+  {
+    "databaseId": "2c7c29de-e15a-4542-979a-d3197e9e7acb",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ceres/Belt Hideaway"
+  },
+  {
+    "databaseId": "e41565b3-aa05-4c8a-853e-e880b8fa7078",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Traginium Heist"
+  },
+  {
+    "databaseId": "60b41283-7722-4133-bc79-654b741785ff",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Anant Aeronaut"
+  },
+  {
+    "databaseId": "415eb3b8-17d6-4559-a228-ca3d77ce30d2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tilak Quarrel"
+  },
+  {
+    "databaseId": "077e3752-d573-4cec-8757-33385fe83426",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Nimble Jockey"
+  },
+  {
+    "databaseId": "415eb3b8-17d6-4559-a228-ca3d77ce30d2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tilak Quarrel"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "c4e5d151-4bc2-40d7-a7d8-15f21b8f3e84",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assailing Vatarma"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "2a624fe7-59a6-4eb5-b951-4659f69fb531",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Well-concealed Charge"
+  },
+  {
+    "databaseId": "dac0fbca-3459-4dbd-86ca-b32d603288c6",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Squadron Lead"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "4e113cb2-46ec-40aa-9467-b5fdd362ce25",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sudeva Quarrel"
+  },
+  {
+    "databaseId": "44a6b9e4-35df-4a24-b5cc-ee8f2dba9aa8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Harvesting Camp"
+  },
+  {
+    "databaseId": "b8691700-1504-4d49-aeb9-ed20d47b2780",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Irama-Vishal"
+  },
+  {
+    "databaseId": "60b41283-7722-4133-bc79-654b741785ff",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Anant Aeronaut"
+  },
+  {
+    "databaseId": "f2b4ff80-a827-46e3-a338-e17ab815bae8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Seyalshi Upholder"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "b8691700-1504-4d49-aeb9-ed20d47b2780",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Irama-Vishal"
+  },
+  {
+    "databaseId": "44a6b9e4-35df-4a24-b5cc-ee8f2dba9aa8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Harvesting Camp"
+  },
+  {
+    "databaseId": "c4e5d151-4bc2-40d7-a7d8-15f21b8f3e84",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assailing Vatarma"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "c051a578-b54f-4f7e-8e57-f036273c68ce",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Kizen Sentinel"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "4e113cb2-46ec-40aa-9467-b5fdd362ce25",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sudeva Quarrel"
+  },
+  {
+    "databaseId": "077e3752-d573-4cec-8757-33385fe83426",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Nimble Jockey"
+  },
+  {
+    "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Vantage Point"
+  },
+  {
+    "databaseId": "4e113cb2-46ec-40aa-9467-b5fdd362ce25",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sudeva Quarrel"
+  },
+  {
+    "databaseId": "3188c62f-6a56-43c8-93c4-3d42805c0aab",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ore Hound"
+  },
+  {
+    "databaseId": "05277bd7-a2c7-4d4a-b683-7d2d1918b7c5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Themis/Mobile Asteroid"
+  },
+  {
+    "databaseId": "c051a578-b54f-4f7e-8e57-f036273c68ce",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Kizen Sentinel"
+  },
+  {
+    "databaseId": "c4e5d151-4bc2-40d7-a7d8-15f21b8f3e84",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assailing Vatarma"
+  },
+  {
+    "databaseId": "3188c62f-6a56-43c8-93c4-3d42805c0aab",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ore Hound"
+  },
+  {
+    "databaseId": "4e113cb2-46ec-40aa-9467-b5fdd362ce25",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Sudeva Quarrel"
+  },
+  {
+    "databaseId": "dac0fbca-3459-4dbd-86ca-b32d603288c6",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Squadron Lead"
+  },
+  {
+    "databaseId": "2a624fe7-59a6-4eb5-b951-4659f69fb531",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Well-concealed Charge"
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "60b41283-7722-4133-bc79-654b741785ff",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Anant Aeronaut"
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "4cb90eaf-ce3f-4138-866f-f3a9a7c666cf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Stinger"
+  },
+  {
+    "databaseId": "077e3752-d573-4cec-8757-33385fe83426",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Nimble Jockey"
+  },
+  {
+    "databaseId": "f2b4ff80-a827-46e3-a338-e17ab815bae8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Seyalshi Upholder"
+  },
+  {
+    "databaseId": "52ae1c06-688a-4e31-a26f-134a09262faa",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Traginium Source"
+  },
+  {
+    "databaseId": "e41565b3-aa05-4c8a-853e-e880b8fa7078",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Traginium Heist"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "1164a385-44df-47e5-9768-7c92cb6eb5d5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Seyal/Light Side"
+  },
+  {
+    "databaseId": "e41565b3-aa05-4c8a-853e-e880b8fa7078",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Traginium Heist"
+  }
+]

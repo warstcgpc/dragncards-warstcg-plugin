@@ -19,6 +19,12 @@
           },
           {"deckListId": "starterDeck2",
             "label": "Incursion: Alliance (Earther-Maverick)"
+          },
+          {"deckListId": "starterDeck3",
+            "label": "Incursion: Swarm (Quay)"
+          },
+          {"deckListId": "starterDeck4",
+            "label": "Incursion: Suppression (Maverick-Shi)"
           }
         ],
         "label": "Incursion Starters"
