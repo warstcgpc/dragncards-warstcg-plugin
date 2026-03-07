@@ -1,6 +1,6 @@
 {
   "deckbuilder": {
-      "addButtons": [1,2,3,4],
+      "addButtons": [1],
       "colorKey": "faction",
       "colorValues": {
           "Earther": "#57B01A",

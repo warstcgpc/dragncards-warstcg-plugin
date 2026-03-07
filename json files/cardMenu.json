@@ -13,13 +13,14 @@
     "options": [
         {
             "label": "id:invert",
-            "actionList": "invertCard"
+            "actionList": "invertCard",
+            "showIf": ["NOT_EQUAL", "$ACTIVE_CARD.sides.B.name", "normal"]
         },
         {
             "label": "id:damage",
             "actionList": "damageCard"
         }
     ],
-    "suppress": ["Delete", "Toggle Trigger"]
+    "suppress": ["Delete", "Toggle Trigger", "Set Rotation"]
   }
 }
