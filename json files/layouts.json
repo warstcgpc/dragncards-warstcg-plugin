@@ -2,102 +2,141 @@
   "layouts": {
     "default": {
       "cardSize": 11,
+      "testBorders": false,
       "chat": {
-        "height": "50%",
+        "height": "40%",
         "left": "80%",
-        "top": "18%",
+        "top": "30%",
         "width": "20%"
       },
       "regions": {
+        "Player1Active": {
+          "direction": "horizontal",
+          "groupId": "player1Active",
+          "height": "14.3%",
+          "left": "68.0%",
+          "top": "85.7%",
+          "type": "pile",
+          "width": "9.0%"
+        },
+        "Player1Used": {
+          "direction": "horizontal",
+          "groupId": "player1Used",
+          "height": "14.3%",
+          "left": "83.0%",
+          "top": "71.4%",
+          "type": "pile",
+          "width": "12.0%"
+        },
+        "Player2Active": {
+          "direction": "horizontal",
+          "groupId": "player2Active",
+          "height": "14.3%",
+          "left": "67.0%",
+          "top": "0.0%",
+          "type": "pile",
+          "width": "10.0%"
+        },
+        "Player2Used": {
+          "direction": "horizontal",
+          "groupId": "player2Used",
+          "height": "14.3%",
+          "left": "83.0%",
+          "top": "14.3%",
+          "type": "pile",
+          "width": "12.0%"
+        },
+        "player1Hand": {
+          "direction": "horizontal",
+          "groupId": "player1Hand",
+          "height": "14.0%",
+          "left": "0.0%",
+          "top": "85.6%",
+          "type": "row",
+          "width": "62.3%"
+        },
+        "player1Lost": {
+          "direction": "horizontal",
+          "groupId": "player1Lost",
+          "height": "14.3%",
+          "left": "90.0%",
+          "top": "85.7%",
+          "type": "pile",
+          "width": "10.0%"
+        },
+        "player1PlayArea": {
+          "direction": "horizontal",
+          "groupId": "player1PlayArea",
+          "height": "28.1%",
+          "left": "0.0%",
+          "top": "57.5%",
+          "type": "free",
+          "width": "67.3%"
+        },
+        "player1Reserve": {
+          "direction": "horizontal",
+          "groupId": "player1Reserve",
+          "height": "14.3%",
+          "left": "79.0%",
+          "top": "85.7%",
+          "type": "pile",
+          "width": "10.0%"
+        },
+        "player2Hand": {
+          "direction": "horizontal",
+          "groupId": "player2Hand",
+          "height": "14.0%",
+          "left": "0.0%",
+          "top": "0.0%",
+          "type": "row",
+          "width": "62.3%"
+        },
+        "player2Lost": {
+          "direction": "horizontal",
+          "groupId": "player2Lost",
+          "height": "14.3%",
+          "left": "90.0%",
+          "top": "0.0%",
+          "type": "pile",
+          "width": "10.0%"
+        },
+        "player2PlayArea": {
+          "direction": "horizontal",
+          "groupId": "player2PlayArea",
+          "height": "28.1%",
+          "left": "0.0%",
+          "top": "14.0%",
+          "type": "free",
+          "width": "67.3%"
+        },
+        "player2Reserve": {
+          "direction": "horizontal",
+          "groupId": "player2Reserve",
+          "height": "14.3%",
+          "left": "79.0%",
+          "top": "0.0%",
+          "type": "pile",
+          "width": "10.0%"
+        },
         "sharedLocations": {
           "direction": "horizontal",
           "groupId": "sharedLocations",
-          "height": "14.3%",
+          "height": "15.4%",
           "left": "0.0%",
-          "top": "41.4%",
+          "top": "42.1%",
           "type": "free",
-          "width": "79.0%"
+          "width": "67.3%",
+          "style": {"background": "rgba(0, 0, 0, 0.3)"}
         },
         "sharedStack": {
-          "direction": "horizontal",
+          "direction": "vertical",
           "groupId": "sharedStack",
-          "height": "14.3%",
-          "left": "0.0%",
-          "top": "0.0%",
-          "type": "row",
-          "width": "81.0%"
-        },
-        "{playerN+1}Lost": {
-          "direction": "horizontal",
-          "groupId": "{playerN+1}Lost",
-          "height": "14.3%",
-          "left": "89.0%",
-          "top": "0.0%",
-          "type": "pile",
-          "width": "9.0%"
-        },
-        "{playerN+1}PlayArea": {
-          "direction": "horizontal",
-          "groupId": "{playerN+1}PlayArea",
-          "height": "27.1%",
-          "left": "0.0%",
-          "top": "14.3%",
+          "height": "64.5%",
+          "left": "68.2%",
+          "top": "16.8%",
           "type": "free",
-          "width": "79.0%"
-        },
-        "{playerN}Active": {
-          "direction": "horizontal",
-          "groupId": "{playerN}Active",
-          "height": "14.3%",
-          "left": "62.0%",
-          "top": "84.3%",
-          "type": "pile",
-          "width": "10.0%"
-        },
-        "{playerN}Hand": {
-          "direction": "horizontal",
-          "groupId": "{playerN}Hand",
-          "height": "14.3%",
-          "left": "0.0%",
-          "top": "84.3%",
-          "type": "row",
-          "width": "60.0%"
-        },
-        "{playerN}Lost": {
-          "direction": "horizontal",
-          "groupId": "{playerN}Lost",
-          "height": "14.3%",
-          "left": "89.0%",
-          "top": "84.3%",
-          "type": "pile",
-          "width": "9.0%"
-        },
-        "{playerN}PlayArea": {
-          "direction": "horizontal",
-          "groupId": "{playerN}PlayArea",
-          "height": "28.6%",
-          "left": "0.0%",
-          "top": "55.7%",
-          "type": "free",
-          "width": "79.0%"
-        },
-        "{playerN}Reserve": {
-          "direction": "horizontal",
-          "groupId": "{playerN}Reserve",
-          "height": "14.3%",
-          "left": "75.0%",
-          "top": "84.3%",
-          "type": "pile",
-          "width": "10.0%"
-        },
-        "{playerN}Used": {
-          "direction": "horizontal",
-          "groupId": "{playerN}Used",
-          "height": "14.3%",
-          "left": "80.0%",
-          "top": "68.6%",
-          "type": "pile",
-          "width": "10.0%"
+          "width": "10.9%",
+          "style": {"background": "rgba(0, 0, 0, 0.3)"}
         }
       },
       "rowSpacing": 3

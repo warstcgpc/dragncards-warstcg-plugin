@@ -86,6 +86,9 @@
     },
     "drawstartinghand": {
         "English": "Draw Starting Hand"
+    },
+    "sendusedtoReserve": {
+        "English": "Used to Reserve Pile."
     }
   }
 }

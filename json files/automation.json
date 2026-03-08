@@ -10,7 +10,8 @@
     ],
     "postNewGameActionList": [
       ["LOG", "A new game was created."],
-      ["PROMPT", "player1", "welcome1"]
+      ["PROMPT", "player1", "welcome1"],
+      ["PROMPT", "player2", "welcome1"]
     ]
   }
 }

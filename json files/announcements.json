@@ -1,5 +1,6 @@
 {
   "announcements": [
+    "2026-03-07: Playable Alpha.",
     "2026-03-07: Fixed Invert/Revert Crash on non-inverting Cards. Added Damage.",
     "2026-03-06: 2205 PST - Added Invert/Revert Support to card menu.",
     "2026-03-06: Plugin created. Inverters don't flip yet."

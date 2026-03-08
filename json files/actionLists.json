@@ -35,6 +35,10 @@
     "drawstartingHand": [
         ["LOG", "$ALIAS_N", " drew starting hand of 8 Cards from Reserve."],
         ["DRAW_STARTING_HAND"]
+    ],
+    "sendusedtoReserve": [
+        ["LOG", "$ALIAS_N", " sent Used Pile to Bottom of Reserve."],
+        ["USED_TO_RESERVE"]
     ]
   }
 }

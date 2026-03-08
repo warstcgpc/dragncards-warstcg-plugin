@@ -219,19 +219,21 @@
       ]
     },
     "DRAW_ONE_CARD": {
-      "args": [
-        "$PLAYER",
-        {"$CONTROLLER": "$GAME.playerInfo.$PLAYER.alias"}],
+      "args": [],
       "code": [
-        ["MOVE_CARD", ["GET_CARD_ID", "{{$PLAYER}}Active", 0, 0], "{{$PLAYER}}Hand", -1]
+        ["MOVE_CARD", ["GET_CARD_ID", "{{$PLAYER_N}}Active", 0, 0], "{{$PLAYER_N}}Hand", -1]
       ]
     },
     "DRAW_STARTING_HAND": {
-      "args": [
-        "$PLAYER",
-        {"$CONTROLLER": "$GAME.playerInfo.$PLAYER.alias"}],
+      "args": [],
       "code": [
-        ["MOVE_CARD", ["GET_CARD_ID", "{{$PLAYER}}Reserve", 0, 0], "{{$PLAYER}}Hand", -8]
+        ["MOVE_STACKS", "{{$PLAYER_N}}Reserve", "{{$PLAYER_N}}Hand", 8, "bottom"]
+      ]
+    },
+    "USED_TO_RESERVE": {
+      "args": [],
+      "code": [
+        ["MOVE_STACKS", "{{$PLAYER_N}}Used", "{{$PLAYER_N}}Reserve", -1, "bottom"]
       ]
     }
   }
