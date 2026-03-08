@@ -80,6 +80,12 @@
     },
     "damage": {
         "English": "Damage/Undamage"
+    },
+    "drawonecard": {
+        "English": "Draw 1 Card"
+    },
+    "drawstartinghand": {
+        "English": "Draw Starting Hand"
     }
   }
 }

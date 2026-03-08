@@ -16,6 +16,15 @@
       "Player2Used",
       "sharedStack"
     ],
-    "options": []
+    "options": [
+        {
+            "label": "id:drawonecard",
+            "actionList": "drawoneCard"
+        },
+        {
+            "label": "id:drawstartinghand",
+            "actionList": "drawstartingHand"
+        }
+    ]
   }
 }

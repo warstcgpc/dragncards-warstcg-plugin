@@ -217,6 +217,22 @@
           ]
         ]
       ]
+    },
+    "DRAW_ONE_CARD": {
+      "args": [
+        "$PLAYER",
+        {"$CONTROLLER": "$GAME.playerInfo.$PLAYER.alias"}],
+      "code": [
+        ["MOVE_CARD", ["GET_CARD_ID", "{{$PLAYER}}Active", 0, 0], "{{$PLAYER}}Hand", -1]
+      ]
+    },
+    "DRAW_STARTING_HAND": {
+      "args": [
+        "$PLAYER",
+        {"$CONTROLLER": "$GAME.playerInfo.$PLAYER.alias"}],
+      "code": [
+        ["MOVE_CARD", ["GET_CARD_ID", "{{$PLAYER}}Reserve", 0, 0], "{{$PLAYER}}Hand", -8]
+      ]
     }
   }
 }

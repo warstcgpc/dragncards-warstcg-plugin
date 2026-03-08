@@ -1,32 +1,40 @@
 {
   "actionLists": {
-        "invertCard": [
-        ["COND",
-            ["EQUAL", "$ACTIVE_CARD.currentSide", "A"],
-            [
-                ["LOG", "$ALIAS_N", " inverted ", "$ACTIVE_FACE.name", " facedown."],
-                ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "C"]    
-            ],
-            true,
-            [
-                ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "A"],
-                ["LOG", "$ALIAS_N", " inverted ", "$ACTIVE_FACE.name", " faceup."]
-            ]
+    "invertCard": [
+    ["COND",
+        ["EQUAL", "$ACTIVE_CARD.currentSide", "A"],
+        [
+            ["LOG", "$ALIAS_N", " inverted ", "$ACTIVE_FACE.name", " facedown."],
+            ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "C"]    
+        ],
+        true,
+        [
+            ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "A"],
+            ["LOG", "$ALIAS_N", " inverted ", "$ACTIVE_FACE.name", " faceup."]
         ]
+    ]
     ],
-        "damageCard": [
-        ["COND",
-            ["EQUAL", "$ACTIVE_CARD.rotation", 0],
-            [
-                ["LOG", "$ALIAS_N", " damaged ", "$ACTIVE_FACE.name", "."],
-                ["SET", "/cardById/$ACTIVE_CARD_ID/rotation", 90]    
-            ],
-            true,
-            [
-                ["SET", "/cardById/$ACTIVE_CARD_ID/rotation", 0],
-                ["LOG", "$ALIAS_N", " undamaged ", "$ACTIVE_FACE.name", "."]
-            ]
+    "damageCard": [
+    ["COND",
+        ["EQUAL", "$ACTIVE_CARD.rotation", 0],
+        [
+            ["LOG", "$ALIAS_N", " damaged ", "$ACTIVE_FACE.name", "."],
+            ["SET", "/cardById/$ACTIVE_CARD_ID/rotation", 90]    
+        ],
+        true,
+        [
+            ["SET", "/cardById/$ACTIVE_CARD_ID/rotation", 0],
+            ["LOG", "$ALIAS_N", " undamaged ", "$ACTIVE_FACE.name", "."]
         ]
+    ]
+    ],
+    "drawoneCard": [
+        ["LOG", "$ALIAS_N", " drew 1 Card from Active Pile."],
+        ["DRAW_ONE_CARD"]
+    ],
+    "drawstartingHand": [
+        ["LOG", "$ALIAS_N", " drew starting hand of 8 Cards from Reserve."],
+        ["DRAW_STARTING_HAND"]
     ]
   }
 }
