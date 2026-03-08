@@ -1,36 +1,9 @@
 {
   "clearTableOptions": [
-    {
-      "actionList": [
-        "SET",
-        "/victoryState",
-        "goodGuysWin"
-      ],
-      "label": "Good guys win"
-    },
-    {
-      "actionList": [
-        "SET",
-        "/victoryState",
-        "badGuysWin"
-      ],
-      "label": "Bad guys win"
-    },
-    {
-      "actionList": [
-        "SET",
-        "/victoryState",
-        "tie"
-      ],
-      "label": "Tie"
-    },
-    {
-      "actionList": [
-        "SET",
-        "/victoryState",
-        "incomplete"
-      ],
-      "label": "Incomplete"
-    }
+        {"label": "id:player1Victory", "actionList": ["SET", "/victoryState", "Player 1 Full Win"]},
+        {"label": "id:player2Victory", "actionList": ["SET", "/victoryState", "Player 2 Full Win"]},
+        {"label": "id:player1modifiedVictory", "actionList": ["SET", "/victoryState", "Player 1 Modified Win"]},
+        {"label": "id:player2modifiedVictory", "actionList": ["SET", "/victoryState", "Player 2 Modified Win"]},
+        {"label": "id:markasIncomplete", "actionList": ["SET", "/victoryState", "Incomplete"]}
   ]
 }

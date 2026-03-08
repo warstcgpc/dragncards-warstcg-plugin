@@ -1,3 +1,8 @@
 {
-  "gameProperties": {}
+  "gameProperties": {
+        "victoryState": {
+        "type": "string",
+        "default": ""
+    }
+  }
 }

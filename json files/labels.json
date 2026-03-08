@@ -89,6 +89,21 @@
     },
     "sendusedtoReserve": {
         "English": "Used to Reserve Pile."
+    },
+    "player1Victory": {
+        "English": "Player 1 Full Win."
+    },
+    "player2Victory": {
+        "English": "Player 2 Full Win."
+    },
+    "player1modifiedVictory": {
+        "English": "Player 1 Modified Win."
+    },
+    "player2modifiedVictory": {
+        "English": "Player 2 Modified Win."
+    },
+    "markasIncomplete": {
+        "English": "Incomplete Game."
     }
   }
 }
