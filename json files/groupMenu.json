@@ -1,20 +1,11 @@
 {
   "groupMenu": {
     "moveToGroupIds": [
-      "player1Reserve",
-      "player1Lost",
-      "player1Hand",
-      "player1PlayArea",
-      "player1Active",
-      "player1Used",
-      "sharedLocations",
-      "player2Reserve",
-      "player2Lost",
-      "player2Hand",
-      "player2PlayArea",
-      "player2Active",
-      "player2Used",
-      "sharedStack"
+      "playerNReserve",
+      "playerNActive",
+      "playerNLost",
+      "playerNHand",
+      "playerNUsed"
     ],
     "options": [
         {
