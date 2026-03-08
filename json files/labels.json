@@ -76,19 +76,19 @@
         "English": "My Deck (Reserve)"
     },
     "invert": {
-        "English": "Invert/Revert"
+        "English": "•Invert/Revert"
     },
     "damage": {
-        "English": "Damage/Undamage"
+        "English": "•Damage/Undamage"
     },
     "drawonecard": {
-        "English": "Draw 1 Card"
+        "English": "•Draw 1 Card"
     },
     "drawstartinghand": {
-        "English": "Draw Starting Hand"
+        "English": "•Draw Starting Hand"
     },
     "sendusedtoReserve": {
-        "English": "Used to Reserve Pile."
+        "English": "•Used to Reserve Pile."
     },
     "player1Victory": {
         "English": "Player 1 Full Win."

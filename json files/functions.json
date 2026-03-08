@@ -1,223 +1,96 @@
 {
   "functions": {
     "DETACH": {
-      "args": [
-        "$CARD_ID"
-      ],
-      "code": [
-        [
-          "VAR",
-          "$CARD",
-          "$GAME.cardById.$CARD_ID"
-        ],
-        [
-          "COND",
-          [
-            "GREATER_THAN",
-            "$CARD.cardIndex",
-            0
-          ],
-          [
-            [
-              "MOVE_CARD",
-              "$CARD.id",
-              "$CARD.groupId",
+            "args": [
+              "$CARD_ID"
+            ],
+            "code": [
+              ["VAR", "$CARD", "$GAME.cardById.$CARD_ID"],
               [
-                "ADD",
-                "$CARD.stackIndex",
-                1
+                "COND",
+                ["GREATER_THAN", "$CARD.cardIndex", 0],
+                [
+                  ["MOVE_CARD", "$CARD.id", "$CARD.groupId",
+                    ["ADD", "$CARD.stackIndex", 1]],
+                  ["LOG", "{{$ALIAS_N}} detached {{$CARD.currentFace.name}}."]
+                ]
               ]
-            ],
-            [
-              "LOG",
-              "{{$ALIAS_N}} detached {{$CARD.currentFace.name}}."
             ]
-          ]
-        ]
-      ]
-    },
+          },
     "DISCARD": {
-      "args": [
-        "$CARD_ID"
-      ],
-      "code": [
-        [
-          "COND",
-          [
-            "EQUAL",
-            "$CARD.discardGroupId",
-            null
-          ],
-          [
-            "LOG",
-            "{{ALIAS_N}} failed to discard {{CARD.currentFace.name}} because it is not associated with a discard pile. Please drag the card instead."
-          ],
-          [
-            "TRUE"
-          ],
-          [
-            [
-              "LOG",
-              "{{$ALIAS_N}} discarded {{$CARD.sides.A.name}}."
+            "args": [
+              "$CARD_ID"
             ],
-            [
-              "MOVE_CARD",
-              "$CARD.id",
-              "$CARD.discardGroupId",
-              0
+            "code": [
+              ["COND",
+                ["EQUAL", "$CARD.discardGroupId", null],
+                ["LOG", "{{ALIAS_N}} failed to discard {{CARD.currentFace.name}} because it is not associated with a discard pile. Please drag the card instead."],
+                ["TRUE"],
+                [
+                  ["LOG", "{{$ALIAS_N}} discarded {{$CARD.sides.A.name}}."],
+                  ["MOVE_CARD", "$CARD.id", "$CARD.discardGroupId", 0]
+                ]
+              ]
             ]
-          ]
-        ]
-      ]
-    },
+          },
     "FLIP": {
-      "args": [
-        "$CARD_ID"
-      ],
-      "code": [
-        [
-          "VAR",
-          "$CARD",
-          "$GAME.cardById.$CARD_ID"
-        ],
-        [
-          "COND",
-          [
-            "EQUAL",
-            "$CARD.currentSide",
-            "A"
-          ],
-          [
-            [
-              "LOG",
-              "{{$ALIAS_N}} flipped {{$CARD.currentFace.name}} facedown."
+            "args": [
+              "$CARD_ID"
             ],
-            [
-              "SET",
-              "/cardById/$CARD.id/currentSide",
-              "B"
+            "code": [
+              ["VAR", "$CARD", "$GAME.cardById.$CARD_ID"],
+              ["COND",
+                ["EQUAL", "$CARD.currentSide", "A"],
+                [
+                  ["LOG", "{{$ALIAS_N}} flipped {{$CARD.currentFace.name}} facedown."],
+                  ["SET", "/cardById/$CARD.id/currentSide", "B"]
+                ],
+                ["TRUE"],
+                [
+                  ["SET", "/cardById/$CARD.id/currentSide", "A"],
+                  ["LOG", "{{$ALIAS_N}} flipped {{$CARD.currentFace.name}} faceup."]
+                ]
+              ]
             ]
-          ],
-          [
-            "TRUE"
-          ],
-          [
-            [
-              "SET",
-              "/cardById/$CARD.id/currentSide",
-              "A"
-            ],
-            [
-              "LOG",
-              "{{$ALIAS_N}} flipped {{$CARD.currentFace.name}} faceup."
-            ]
-          ]
-        ]
-      ]
-    },
+          },
     "SHUFFLE_INTO_DECK": {
-      "args": [
-        "$CARD_ID"
-      ],
-      "code": [
-        [
-          "VAR",
-          "$CARD",
-          "$GAME.cardById.$CARD_ID"
-        ],
-        [
-          "VAR",
-          "$GROUP_ID",
-          "$CARD.deckGroupId"
-        ],
-        [
-          "COND",
-          [
-            "EQUAL",
-            "$GROUP_ID",
-            null
-          ],
-          [
-            "LOG",
-            "{{$ALIAS_N}} failed to shuffle {{$CARD.currentFace.name}} into a deck because it is not associated with a deck."
-          ],
-          [
-            "TRUE"
-          ],
-          [
-            [
-              "MOVE_CARD",
-              "$CARD.id",
-              "$CARD.deckGroupId",
-              0
+            "args": [
+              "$CARD_ID"
             ],
-            [
-              "SHUFFLE_GROUP",
-              "$GROUP_ID"
-            ],
-            [
-              "LOG",
-              "{{$ALIAS_N}} shuffled {{$CARD.currentFace.name}} into {{$GAME.groupById.$GROUP_ID.label}}."
+            "code": [
+              ["VAR", "$CARD", "$GAME.cardById.$CARD_ID"],
+              ["VAR", "$GROUP_ID", "$CARD.deckGroupId"],
+              [
+                "COND",
+                ["EQUAL", "$GROUP_ID", null],
+                ["LOG", "{{$ALIAS_N}} failed to shuffle {{$CARD.currentFace.name}} into a deck because it is not associated with a deck."],
+                ["TRUE"],
+                [
+                  ["MOVE_CARD", "$CARD.id", "$CARD.deckGroupId", 0],
+                  ["SHUFFLE_GROUP", "$GROUP_ID"],
+                  ["LOG", "{{$ALIAS_N}} shuffled {{$CARD.currentFace.name}} into {{$GAME.groupById.$GROUP_ID.label}}."]
+                ]
+              ]
             ]
-          ]
-        ]
-      ]
-    },
+          },
     "TOGGLE_ROTATE": {
-      "args": [
-        "$CARD_ID"
-      ],
-      "code": [
-        [
-          "VAR",
-          "$CARD",
-          "$GAME.cardById.$CARD_ID"
-        ],
-        [
-          "COND",
-          [
-            "AND",
-            [
-              "EQUAL",
-              "$CARD.rotation",
-              90
+            "args": [
+              "$CARD_ID"
             ],
-            "$CARD.inPlay"
-          ],
-          [
-            [
-              "LOG",
-              "{{$ALIAS_N}} rotated {{$CARD.currentFace.name}}."
-            ],
-            [
-              "SET",
-              "/cardById/$CARD.id/rotation",
-              0
+            "code": [
+              ["VAR", "$CARD", "$GAME.cardById.$CARD_ID"],
+              ["COND",
+                ["AND", ["EQUAL", "$CARD.rotation", 90], "$CARD.inPlay"],
+                [ ["LOG", "{{$ALIAS_N}} rotated {{$CARD.currentFace.name}}."], ["SET", "/cardById/$CARD.id/rotation", 0] ],
+                ["AND",
+                  ["EQUAL", "$CARD.rotation", 0], "$CARD.inPlay"],
+                [
+                  ["LOG", "{{$ALIAS_N}} straightened {{$CARD.currentFace.name}}."],
+                  ["SET", "/cardById/$CARD.id/rotation", 90]
+                ]
+              ]
             ]
-          ],
-          [
-            "AND",
-            [
-              "EQUAL",
-              "$CARD.rotation",
-              0
-            ],
-            "$CARD.inPlay"
-          ],
-          [
-            [
-              "LOG",
-              "{{$ALIAS_N}} straightened {{$CARD.currentFace.name}}."
-            ],
-            [
-              "SET",
-              "/cardById/$CARD.id/rotation",
-              90
-            ]
-          ]
-        ]
-      ]
-    },
+          },
     "DRAW_ONE_CARD": {
       "args": [],
       "code": [
@@ -235,6 +108,35 @@
       "code": [
         ["MOVE_STACKS", "{{$PLAYER_N}}Used", "{{$PLAYER_N}}Reserve", -1, "bottom"]
       ]
+    },
+    "ACTIVATE_ENERGY": {
+      "args": [],
+      "code": [
+        ["MOVE_STACKS", "{{$PLAYER_N}}Reserve", "{{$PLAYER_N}}Active", 1, "top"]
+      ]
+    },
+    "PAY_ENERGY": {
+      "args": [],
+      "code": [
+        ["MOVE_STACKS", "{{$PLAYER_N}}Active", "{{$PLAYER_N}}Used", 1, "top"]
+      ]
+    },
+    "INVERT_CARD": {
+      "args": [],
+      "code": [
+            ["COND",
+                ["EQUAL", "$ACTIVE_CARD.currentSide", "A"],
+                [
+                    ["LOG", "$ALIAS_N", " inverted ", "$ACTIVE_FACE.name", "."],
+                    ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "C"]    
+                ],
+                true,
+                [
+                    ["SET", "/cardById/$ACTIVE_CARD_ID/currentSide", "A"],
+                    ["LOG", "$ALIAS_N", " reverted ", "$ACTIVE_FACE.name", "."]
+                ]
+            ]
+            ]
     }
   }
 }
