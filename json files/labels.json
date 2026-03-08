@@ -107,6 +107,12 @@
     },
     "sendcardtolostPile": {
         "English": "•Send to Lost Pile."
+    },
+    "sendcardtousedPile": {
+        "English": "•Send to Used Pile."
+    },
+    "menulog_activation": {
+        "English": "•Activate Card Ability."
     }
   }
 }

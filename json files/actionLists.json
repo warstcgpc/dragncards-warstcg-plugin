@@ -38,6 +38,15 @@
         ],
     "menusendcardtolostPile": [
             ["SEND_TO_LOST_CARD"]
+        ],
+    "sendcardtousedPile": [
+            ["SEND_TO_USED"]
+        ],
+    "menusendcardtousedPile": [
+            ["SEND_TO_USED_CARD"]
+        ],
+    "menulog_activation": [
+            ["LOG_ACTIVATION"]
         ]
   }
 }

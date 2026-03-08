@@ -90,6 +90,23 @@
               ["LOG", "{{$ALIAS_N}} sent ", "$ACTIVE_FACE.name", " to their Lost Pile."]
               ]
           },
+    "SEND_TO_USED": {
+            "args": [
+              "$CARD_ID"
+            ],
+            "code": [
+              ["VAR", "$CARD", "$GAME.cardById.$CARD_ID"],
+              ["MOVE_CARD", "$CARD.id", "{{$PLAYER_N}}Used", 0, "top"],
+              ["LOG", "{{$ALIAS_N}} sent {{$CARD.currentFace.name}} to their Used Pile."]
+              ]
+          },
+    "SEND_TO_USED_CARD": {
+            "args": [],
+            "code": [
+              ["MOVE_CARD", "$ACTIVE_CARD_ID", "{{$PLAYER_N}}Used", 0, "top"],
+              ["LOG", "{{$ALIAS_N}} sent ", "$ACTIVE_CARD.sides.A.name", " to their Used Pile."]
+              ]
+          },
     "TOGGLE_ROTATE": {
             "args": [
               "$CARD_ID"
@@ -159,6 +176,12 @@
                 ]
             ]
             ]
+    },
+    "LOG_ACTIVATION": {
+      "args": [],
+      "code": [
+        ["LOG", "{{$ALIAS_N}} activated an ability of ", "$ACTIVE_FACE.name"]
+      ]
     }
   }
 }

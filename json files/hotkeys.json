@@ -30,8 +30,16 @@
           "SEND_TO_LOST",
           "$ACTIVE_CARD_ID"
         ],
-        "key": "X",
+        "key": "L",
         "label": "Send to Lost Pile"
+      },
+      {
+        "actionList": [
+          "SEND_TO_USED",
+          "$ACTIVE_CARD_ID"
+        ],
+        "key": "U",
+        "label": "Send to Used Pile"
       }
     ],
     "game": [

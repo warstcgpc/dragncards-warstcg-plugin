@@ -8,6 +8,10 @@
     ],
     "options": [
         {
+            "label": "id:menulog_activation",
+            "actionList": "menulog_activation"
+        },
+        {
             "label": "id:invert",
             "actionList": "invertCard",
             "showIf": ["NOT_EQUAL", "$ACTIVE_CARD.sides.B.name", "normal"]
@@ -19,6 +23,10 @@
         {
             "label": "id:sendcardtolostPile",
             "actionList": "menusendcardtolostPile"
+        },
+        {
+            "label": "id:sendcardtousedPile",
+            "actionList": "menusendcardtousedPile"
         }
     ],
     "suppress": ["Delete", "Toggle Trigger", "Set Rotation"]
