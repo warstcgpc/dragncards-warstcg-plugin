@@ -32,6 +32,12 @@
     "flipCard": [
             ["LOG", "$ALIAS_N", " flipped ", "$ACTIVE_FACE.name", "."],
             ["FLIP"]
+        ],
+    "sendcardtolostPile": [
+            ["SEND_TO_LOST"]
+        ],
+    "menusendcardtolostPile": [
+            ["SEND_TO_LOST_CARD"]
         ]
   }
 }

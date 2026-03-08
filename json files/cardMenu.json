@@ -15,6 +15,10 @@
         {
             "label": "id:damage",
             "actionList": "damageCard"
+        },
+        {
+            "label": "id:sendcardtolostPile",
+            "actionList": "menusendcardtolostPile"
         }
     ],
     "suppress": ["Delete", "Toggle Trigger", "Set Rotation"]

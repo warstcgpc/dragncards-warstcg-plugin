@@ -73,6 +73,23 @@
               ]
             ]
           },
+    "SEND_TO_LOST": {
+            "args": [
+              "$CARD_ID"
+            ],
+            "code": [
+              ["VAR", "$CARD", "$GAME.cardById.$CARD_ID"],
+              ["MOVE_CARD", "$CARD.id", "{{$PLAYER_N}}Lost", 1, "top"],
+              ["LOG", "{{$ALIAS_N}} sent {{$CARD.currentFace.name}} to their Lost Pile."]
+              ]
+          },
+    "SEND_TO_LOST_CARD": {
+            "args": [],
+            "code": [
+              ["MOVE_CARD", "$ACTIVE_CARD_ID", "{{$PLAYER_N}}Lost", 1, "top"],
+              ["LOG", "{{$ALIAS_N}} sent ", "$ACTIVE_FACE.name", " to their Lost Pile."]
+              ]
+          },
     "TOGGLE_ROTATE": {
             "args": [
               "$CARD_ID"
@@ -94,31 +111,36 @@
     "DRAW_ONE_CARD": {
       "args": [],
       "code": [
-        ["MOVE_CARD", ["GET_CARD_ID", "{{$PLAYER_N}}Active", 0, 0], "{{$PLAYER_N}}Hand", -1]
+        ["MOVE_CARD", ["GET_CARD_ID", "{{$PLAYER_N}}Active", 0, 0], "{{$PLAYER_N}}Hand", -1],
+        ["LOG", "{{$ALIAS_N}} drew 1 Card from their Active Pile."]
       ]
     },
     "DRAW_STARTING_HAND": {
       "args": [],
       "code": [
-        ["MOVE_STACKS", "{{$PLAYER_N}}Reserve", "{{$PLAYER_N}}Hand", 8, "bottom"]
+        ["MOVE_STACKS", "{{$PLAYER_N}}Reserve", "{{$PLAYER_N}}Hand", 8, "bottom"],
+        ["LOG", "{{$ALIAS_N}} drew a Starting hand of 8 cards from their Reserve."]
       ]
     },
     "USED_TO_RESERVE": {
       "args": [],
       "code": [
-        ["MOVE_STACKS", "{{$PLAYER_N}}Used", "{{$PLAYER_N}}Reserve", -1, "bottom"]
+        ["MOVE_STACKS", "{{$PLAYER_N}}Used", "{{$PLAYER_N}}Reserve", -1, "bottom"],
+        ["LOG", "{{$ALIAS_N}} sent their Used Pile to Bottom of Reserve."]
       ]
     },
     "ACTIVATE_ENERGY": {
       "args": [],
       "code": [
-        ["MOVE_STACKS", "{{$PLAYER_N}}Reserve", "{{$PLAYER_N}}Active", 1, "top"]
+        ["MOVE_STACKS", "{{$PLAYER_N}}Reserve", "{{$PLAYER_N}}Active", 1, "top"],
+        ["LOG", "{{$ALIAS_N}} Activated 1 Energy from Reserve to Active."]
       ]
     },
     "PAY_ENERGY": {
       "args": [],
       "code": [
-        ["MOVE_STACKS", "{{$PLAYER_N}}Active", "{{$PLAYER_N}}Used", 1, "top"]
+        ["MOVE_STACKS", "{{$PLAYER_N}}Active", "{{$PLAYER_N}}Used", 1, "top"],
+        ["LOG", "{{$ALIAS_N}} paid 1 Energy from Active to Used."]
       ]
     },
     "INVERT_CARD": {

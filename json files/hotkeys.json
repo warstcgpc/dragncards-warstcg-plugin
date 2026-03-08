@@ -27,11 +27,11 @@
       },
       {
         "actionList": [
-          "DISCARD_CARD",
-          "$ACTIVE_CARD"
+          "SEND_TO_LOST",
+          "$ACTIVE_CARD_ID"
         ],
         "key": "X",
-        "label": "Discard"
+        "label": "Send to Lost Pile"
       }
     ],
     "game": [
@@ -62,6 +62,13 @@
         ],
         "key": "P",
         "label": "Pay 1 Energy from Active to Used"
+      },
+      {
+        "actionList": [
+          "USED_TO_RESERVE"
+        ],
+        "key": "E",
+        "label": "End Turn - Send Used Pile to Bottom of Reserve."
       }
     ],
     "token": []
