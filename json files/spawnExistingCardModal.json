@@ -6,15 +6,14 @@
     ],
     "loadGroupIds": [
       "player1Reserve",
+      "player1Used",
+      "player1Active",
       "player1PlayArea",
-      "Player1Active",
-      "Player1Used",
-      "sharedLocations",
       "player2Reserve",
+      "player2Used",
+      "player2Active",
       "player2PlayArea",
-      "Player2Active",
-      "Player2Used",
-      "sharedStack"
+      "sharedLocations"
     ]
   }
 }

@@ -1,40 +1,13 @@
 {
   "groups": {
-    "Player1Active": {
+    "player1Active": {
       "groupType": "deck",
       "label": "Player 1 Active",
       "onCardEnter": {
         "controller": "player1",
-        "deckGroupId": "Player1Active"
+        "deckGroupId": "player1Active"
       },
       "tableLabel": "Player 1 Active"
-    },
-    "Player1Used": {
-      "groupType": "deck",
-      "label": "Player 1 Used",
-      "onCardEnter": {
-        "controller": "player1",
-        "deckGroupId": "Player1Used"
-      },
-      "tableLabel": "Player 1 Used"
-    },
-    "Player2Active": {
-      "groupType": "deck",
-      "label": "Player 2 Active",
-      "onCardEnter": {
-        "controller": "player2",
-        "deckGroupId": "Player2Active"
-      },
-      "tableLabel": "Player 2 Active"
-    },
-    "Player2Used": {
-      "groupType": "deck",
-      "label": "Player 2 Used",
-      "onCardEnter": {
-        "controller": "player2",
-        "deckGroupId": "Player2Used"
-      },
-      "tableLabel": "Player 2 Used"
     },
     "player1Hand": {
       "groupType": "hand",
@@ -72,6 +45,24 @@
       },
       "tableLabel": "Player 1 Reserve"
     },
+    "player1Used": {
+      "groupType": "deck",
+      "label": "Player 1 Used",
+      "onCardEnter": {
+        "controller": "player1",
+        "deckGroupId": "player1Used"
+      },
+      "tableLabel": "Player 1 Used"
+    },
+    "player2Active": {
+      "groupType": "deck",
+      "label": "Player 2 Active",
+      "onCardEnter": {
+        "controller": "player2",
+        "deckGroupId": "player2Active"
+      },
+      "tableLabel": "Player 2 Active"
+    },
     "player2Hand": {
       "groupType": "hand",
       "label": "Player 2 Hand",
@@ -108,19 +99,28 @@
       },
       "tableLabel": "Player 2 Reserve"
     },
+    "player2Used": {
+      "groupType": "deck",
+      "label": "Player 2 Used",
+      "onCardEnter": {
+        "controller": "player2",
+        "deckGroupId": "player2Used"
+      },
+      "tableLabel": "Player 2 Used"
+    },
     "sharedLocations": {
       "groupType": "inPlay",
       "label": "Locations",
       "onCardEnter": {
-        "controller": "shared"
+        "controller": "player1"
       },
       "tableLabel": "Locations"
     },
     "sharedStack": {
-      "groupType": "inPlay",
+      "groupType": "aside",
       "label": "The Stack",
       "onCardEnter": {
-        "controller": "shared"
+        "controller": "player1"
       },
       "tableLabel": "The Stack"
     }

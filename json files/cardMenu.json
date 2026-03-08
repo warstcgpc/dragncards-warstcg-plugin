@@ -3,12 +3,18 @@
     "moveToGroupIds": [
       "player1Reserve",
       "player1Lost",
+      "player1Used",
+      "player1Active",
       "player1Hand",
-      "Player1Used",
+      "player1PlayArea",
       "player2Reserve",
       "player2Lost",
+      "player2Used",
+      "player2Active",
       "player2Hand",
-      "Player2Used"
+      "player2PlayArea",
+      "sharedLocations",
+      "sharedStack"
     ],
     "options": [
         {
