@@ -79,14 +79,14 @@
             ],
             "code": [
               ["VAR", "$CARD", "$GAME.cardById.$CARD_ID"],
-              ["MOVE_CARD", "$CARD.id", "{{$PLAYER_N}}Lost", 1, "top"],
+              ["MOVE_CARD", "$CARD.id", "{{$PLAYER_N}}Lost", 0, "top"],
               ["LOG", "{{$ALIAS_N}} sent {{$CARD.currentFace.name}} to their Lost Pile."]
               ]
           },
     "SEND_TO_LOST_CARD": {
             "args": [],
             "code": [
-              ["MOVE_CARD", "$ACTIVE_CARD_ID", "{{$PLAYER_N}}Lost", 1, "top"],
+              ["MOVE_CARD", "$ACTIVE_CARD_ID", "{{$PLAYER_N}}Lost", 0, "top"],
               ["LOG", "{{$ALIAS_N}} sent ", "$ACTIVE_FACE.name", " to their Lost Pile."]
               ]
           },
