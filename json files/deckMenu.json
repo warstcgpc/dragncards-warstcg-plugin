@@ -28,6 +28,17 @@
           }
         ],
         "label": "Incursion Starters"
+      },
+      {
+        "deckLists": [
+          {"deckListId": "starterDeck5",
+            "label": "Nowhere to Hide: Overlords (Earther-Shi)"
+          },
+          {"deckListId": "starterDeck6",
+            "label": "Nowhere to Hide: Cats & Claws (Maverick-Quay)"
+          }
+        ],
+        "label": "Nowhere to Hide Starters"
       }
     ]
   }

@@ -1,0 +1,362 @@
+[
+  {
+    "databaseId": "610310b4-0838-4fd4-b5f1-c6e488868373",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Dagger Lead"
+  },
+  {
+    "databaseId": "b4fe0236-2ca1-4644-a1c2-b938896d9107",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ranger Watchman - Starter Deck"
+  },
+  {
+    "databaseId": "9be49bbd-7382-4fc1-8f34-82bcca033d33",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Lifeseeker - Starter Deck"
+  },
+  {
+    "databaseId": "610310b4-0838-4fd4-b5f1-c6e488868373",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Dagger Lead"
+  },
+  {
+    "databaseId": "5a08155f-a188-40e0-afc6-944fe5783b19",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Cornered - Starter Deck"
+  },
+  {
+    "databaseId": "af8422c0-8296-44ad-8437-7bc01a3ff3f2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tilak House Guard"
+  },
+  {
+    "databaseId": "b4d49fbb-536f-4f45-811e-5d093f50b48c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Dagger Juggernaut"
+  },
+  {
+    "databaseId": "a7274151-f092-436c-ad2c-4905abf9a81f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Corporate Transport"
+  },
+  {
+    "databaseId": "aa20f6d0-1327-4fb4-af11-11f8d5482cbf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Carabinier"
+  },
+  {
+    "databaseId": "d802370b-8d81-4675-84c8-c8958b0e7403",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Juggernaut Tender"
+  },
+  {
+    "databaseId": "b3d6dd4d-4e3f-4999-9705-e6bf97278f2f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assault Carbine"
+  },
+  {
+    "databaseId": "58863e19-4549-49ac-bea9-b7f8c8ff7a4b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Mouthpiece"
+  },
+  {
+    "databaseId": "cb28d351-1d48-468d-adcb-62a712b0bd0e",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Collaborative Strike"
+  },
+  {
+    "databaseId": "af8422c0-8296-44ad-8437-7bc01a3ff3f2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tilak House Guard"
+  },
+  {
+    "databaseId": "a84727ae-dc60-4b09-b5ad-b0590964332c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ordnance Master"
+  },
+  {
+    "databaseId": "d8f20c13-319c-4073-85d5-f0d68fefd9ab",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Venus Garrison Fighter"
+  },
+  {
+    "databaseId": "44a6b9e4-35df-4a24-b5cc-ee8f2dba9aa8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Harvesting Camp"
+  },
+  {
+    "databaseId": "2c7c29de-e15a-4542-979a-d3197e9e7acb",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ceres/Belt Hideaway"
+  },
+  {
+    "databaseId": "ea162f99-be7f-434e-8a61-944296759fe8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Gorget Cannon"
+  },
+  {
+    "databaseId": "16333cc8-3f3f-4d35-8e21-84dd9571f35f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Escort Cruiser"
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "5f19421a-55fa-46cd-aae1-c5976d6e9a9a",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Traginium Well - Rewards Store"
+  },
+  {
+    "databaseId": "88b6a2cb-8fe0-4c8b-b64d-a16b3f5f52ce",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Support Vehicle"
+  },
+  {
+    "databaseId": "6c8c0516-9b84-443d-a938-20935017ae38",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Resolute Quarrel"
+  },
+  {
+    "databaseId": "bec1be5e-9074-4177-974d-b0ccd43f35ff",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Forward Base"
+  },
+  {
+    "databaseId": "ea162f99-be7f-434e-8a61-944296759fe8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Gorget Cannon"
+  },
+  {
+    "databaseId": "aa20f6d0-1327-4fb4-af11-11f8d5482cbf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Carabinier"
+  },
+  {
+    "databaseId": "d802370b-8d81-4675-84c8-c8958b0e7403",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Juggernaut Tender"
+  },
+  {
+    "databaseId": "a84727ae-dc60-4b09-b5ad-b0590964332c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ordnance Master"
+  },
+  {
+    "databaseId": "aa20f6d0-1327-4fb4-af11-11f8d5482cbf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Carabinier"
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "6c8c0516-9b84-443d-a938-20935017ae38",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Resolute Quarrel"
+  },
+  {
+    "databaseId": "cb28d351-1d48-468d-adcb-62a712b0bd0e",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Collaborative Strike"
+  },
+  {
+    "databaseId": "88b6a2cb-8fe0-4c8b-b64d-a16b3f5f52ce",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Support Vehicle"
+  },
+  {
+    "databaseId": "d8f20c13-319c-4073-85d5-f0d68fefd9ab",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Venus Garrison Fighter"
+  },
+  {
+    "databaseId": "b3d6dd4d-4e3f-4999-9705-e6bf97278f2f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assault Carbine"
+  },
+  {
+    "databaseId": "b4d49fbb-536f-4f45-811e-5d093f50b48c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Dagger Juggernaut"
+  },
+  {
+    "databaseId": "b3d6dd4d-4e3f-4999-9705-e6bf97278f2f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Assault Carbine"
+  },
+  {
+    "databaseId": "b4d49fbb-536f-4f45-811e-5d093f50b48c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Dagger Juggernaut"
+  },
+  {
+    "databaseId": "52ae1c06-688a-4e31-a26f-134a09262faa",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Traginium Source"
+  },
+  {
+    "databaseId": "cc30a096-c98e-491e-b87b-acba495753bc",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Porter Bot"
+  },
+  {
+    "databaseId": "6c8c0516-9b84-443d-a938-20935017ae38",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Resolute Quarrel"
+  },
+  {
+    "databaseId": "ac76b749-145e-41ca-8bb0-e77410996599",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Exploratory Camp"
+  },
+  {
+    "databaseId": "d802370b-8d81-4675-84c8-c8958b0e7403",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Juggernaut Tender"
+  },
+  {
+    "databaseId": "16333cc8-3f3f-4d35-8e21-84dd9571f35f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Escort Cruiser"
+  },
+  {
+    "databaseId": "88b6a2cb-8fe0-4c8b-b64d-a16b3f5f52ce",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Infantry Support Vehicle"
+  },
+  {
+    "databaseId": "58863e19-4549-49ac-bea9-b7f8c8ff7a4b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Mouthpiece"
+  },
+  {
+    "databaseId": "76001e46-6dec-48ce-b042-2f15d5b8e29f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Venus/Yacht Works"
+  },
+  {
+    "databaseId": "a84727ae-dc60-4b09-b5ad-b0590964332c",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ordnance Master"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "44a6b9e4-35df-4a24-b5cc-ee8f2dba9aa8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Harvesting Camp"
+  },
+  {
+    "databaseId": "aa20f6d0-1327-4fb4-af11-11f8d5482cbf",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Carabinier"
+  },
+  {
+    "databaseId": "af8422c0-8296-44ad-8437-7bc01a3ff3f2",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tilak House Guard"
+  },
+  {
+    "databaseId": "2f759950-b2fb-4335-9e07-9ddb6c9a6658",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Construction Bot"
+  },
+  {
+    "databaseId": "51f0a197-e900-490a-8b65-0164aeb225f8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Mining Platform"
+  },
+  {
+    "databaseId": "ea162f99-be7f-434e-8a61-944296759fe8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Gorget Cannon"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "58863e19-4549-49ac-bea9-b7f8c8ff7a4b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Mouthpiece"
+  },
+  {
+    "databaseId": "d8f20c13-319c-4073-85d5-f0d68fefd9ab",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Venus Garrison Fighter"
+  },
+  {
+    "databaseId": "44a6b9e4-35df-4a24-b5cc-ee8f2dba9aa8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Harvesting Camp"
+  }
+]

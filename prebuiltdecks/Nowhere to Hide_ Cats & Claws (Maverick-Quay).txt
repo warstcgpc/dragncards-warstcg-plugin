@@ -1,0 +1,362 @@
+[
+  {
+    "databaseId": "efc0b32f-0a78-4899-8095-dbdd89d9c062",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Killer Cait Grimalkin"
+  },
+  {
+    "databaseId": "49a901e5-b32d-4397-9318-9e42b5f3adb4",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tahka Assault Craft- Starter Deck"
+  },
+  {
+    "databaseId": "41a2be6e-0696-47ca-9d6c-07361ffc2cd0",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Rakat - Starter Deck"
+  },
+  {
+    "databaseId": "efc0b32f-0a78-4899-8095-dbdd89d9c062",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Killer Cait Grimalkin"
+  },
+  {
+    "databaseId": "e20fc04a-d8b9-4bc0-ac39-c075f5b0e4ee",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Zhang Hotrod - Starter Deck"
+  },
+  {
+    "databaseId": "08e79173-aacd-4571-9036-5ef6b317fd19",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ilna Guide"
+  },
+  {
+    "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Hunters' Camp"
+  },
+  {
+    "databaseId": "4bd71d45-5375-4e0b-a49c-f0b07b0b3cf9",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Lauded Flyer"
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "6f0a2362-2f0d-49cb-b2be-df8c2a4c7f03",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Plundering Bandit"
+  },
+  {
+    "databaseId": "1e2990eb-6c42-4ef3-951e-6a8ac308b979",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Boxer"
+  },
+  {
+    "databaseId": "4bd71d45-5375-4e0b-a49c-f0b07b0b3cf9",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Lauded Flyer"
+  },
+  {
+    "databaseId": "5e351cbe-682d-4787-a2a9-9d10af7f255b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Widowmaker"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "d29c9d43-1b7d-441c-8059-70d7b5ed2cfb",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Darkslider"
+  },
+  {
+    "databaseId": "40ea84d8-81cb-46a6-a143-b6d8917792ea",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Raider"
+  },
+  {
+    "databaseId": "19f88557-b336-4084-b77e-5862df16afb8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Traginium Stash"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "d3be58ca-2369-49c7-b471-de2165f8fcbc",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Belt Runner"
+  },
+  {
+    "databaseId": "86a9c2be-e825-48f6-b062-83869a04d799",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Traginium Hoard"
+  },
+  {
+    "databaseId": "2c7c29de-e15a-4542-979a-d3197e9e7acb",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ceres/Belt Hideaway"
+  },
+  {
+    "databaseId": "6f0a2362-2f0d-49cb-b2be-df8c2a4c7f03",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Plundering Bandit"
+  },
+  {
+    "databaseId": "08e79173-aacd-4571-9036-5ef6b317fd19",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ilna Guide"
+  },
+  {
+    "databaseId": "1e2990eb-6c42-4ef3-951e-6a8ac308b979",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Boxer"
+  },
+  {
+    "databaseId": "08e79173-aacd-4571-9036-5ef6b317fd19",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ilna Guide"
+  },
+  {
+    "databaseId": "c18be137-d9cc-44bf-a920-3bf7820df823",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Little Nelly"
+  },
+  {
+    "databaseId": "78bdbbd6-d69a-425a-bf81-9373ebe726b5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Quay Navigator"
+  },
+  {
+    "databaseId": "6f0a2362-2f0d-49cb-b2be-df8c2a4c7f03",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Plundering Bandit"
+  },
+  {
+    "databaseId": "5e351cbe-682d-4787-a2a9-9d10af7f255b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Widowmaker"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  },
+  {
+    "databaseId": "19f88557-b336-4084-b77e-5862df16afb8",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Traginium Stash"
+  },
+  {
+    "databaseId": "4bd71d45-5375-4e0b-a49c-f0b07b0b3cf9",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Lauded Flyer"
+  },
+  {
+    "databaseId": "c18be137-d9cc-44bf-a920-3bf7820df823",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Little Nelly"
+  },
+  {
+    "databaseId": "4bba7d8c-e0e1-4130-a65b-68b4b15f598b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Captured Refinery"
+  },
+  {
+    "databaseId": "4e7957c2-3518-44ce-a185-8bd5a64d0204",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Hunters' Camp"
+  },
+  {
+    "databaseId": "5e351cbe-682d-4787-a2a9-9d10af7f255b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Widowmaker"
+  },
+  {
+    "databaseId": "ec3f966d-8cf1-4ca9-9f49-8e467fbdd56b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tahka Chuluk Squad"
+  },
+  {
+    "databaseId": "860a333f-db6f-4864-b259-8298ab1a6d10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Independent Transport"
+  },
+  {
+    "databaseId": "40ea84d8-81cb-46a6-a143-b6d8917792ea",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Raider"
+  },
+  {
+    "databaseId": "bcafab74-a234-4911-8b6c-b495bef98c32",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Arethusa/Remote Power Plant"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "78bdbbd6-d69a-425a-bf81-9373ebe726b5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Quay Navigator"
+  },
+  {
+    "databaseId": "52ae1c06-688a-4e31-a26f-134a09262faa",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Traginium Source"
+  },
+  {
+    "databaseId": "ec3f966d-8cf1-4ca9-9f49-8e467fbdd56b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tahka Chuluk Squad"
+  },
+  {
+    "databaseId": "d5ff6eb1-a456-44da-abb3-830038b5ca80",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Expansion"
+  },
+  {
+    "databaseId": "0ac47d1c-56c0-481c-87cf-4e3ef97db111",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Razorjack"
+  },
+  {
+    "databaseId": "78bdbbd6-d69a-425a-bf81-9373ebe726b5",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Quay Navigator"
+  },
+  {
+    "databaseId": "d3be58ca-2369-49c7-b471-de2165f8fcbc",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Belt Runner"
+  },
+  {
+    "databaseId": "90603f8b-355e-4cca-8795-39c25732ea58",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ravagers"
+  },
+  {
+    "databaseId": "0ac47d1c-56c0-481c-87cf-4e3ef97db111",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Razorjack"
+  },
+  {
+    "databaseId": "86a9c2be-e825-48f6-b062-83869a04d799",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Traginium Hoard"
+  },
+  {
+    "databaseId": "6f0a2362-2f0d-49cb-b2be-df8c2a4c7f03",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Plundering Bandit"
+  },
+  {
+    "databaseId": "90603f8b-355e-4cca-8795-39c25732ea58",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ravagers"
+  },
+  {
+    "databaseId": "d582eb69-8e39-4161-8dce-400ed8f9d6f1",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Occupied Tunnels"
+  },
+  {
+    "databaseId": "d3be58ca-2369-49c7-b471-de2165f8fcbc",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Belt Runner"
+  },
+  {
+    "databaseId": "17c075b5-49ca-467b-84a0-212a1f8ebc10",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "?Ganymede/Vantage Point"
+  },
+  {
+    "databaseId": "413c7f03-8b54-4722-af65-f5ee8e8dbf7f",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Hunter Bot"
+  },
+  {
+    "databaseId": "d29c9d43-1b7d-441c-8059-70d7b5ed2cfb",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Darkslider"
+  },
+  {
+    "databaseId": "ec3f966d-8cf1-4ca9-9f49-8e467fbdd56b",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Tahka Chuluk Squad"
+  },
+  {
+    "databaseId": "c5a708d8-1ec9-486b-ac07-e24b96dc510d",
+    "quantity": 1,
+    "loadGroupId": "playerNReserve",
+    "_name": "Ganymede/Frontier Camp"
+  }
+]
