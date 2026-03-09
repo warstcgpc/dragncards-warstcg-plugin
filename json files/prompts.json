@@ -2,7 +2,7 @@
   "prompts": {
         "welcome1": {
             "args": [],
-            "message": "Welcome to the WARS TCG in DragnCards 2.0! You can build a custom deck under 'Builder' or load a pre-built from 'Menu -> Load -> Load Prebuilt Deck'. To draw cards or move them between piles - simply drag and drop from that pile or area to your target. At End of turn, click the menu on your Used pile and choose 'Move to -> Player1Reserve -> Bottom'. To start a game - Search your Reserve for a site card and put it in play. Roll or flip to see who goes first. Draw 8 cards. Visit https://warstcg.org for more information, and online rules.",
+            "message": "Welcome to the WARS TCG in DragnCards 2.0! You can build a custom deck under 'Builder' or load a pre-built from 'Menu -> Load. To start a game - Search your Reserve for a site card and put it in play. Roll or flip to see who goes first. Draw 8 cards (Hotkey S). TAB Key displays hotkeys. Visit https://warstcg.org for more information, and online rules.",
             "options": [
                 {
                     "label": "OK",

@@ -1,22 +1,22 @@
 {
   "labels": {
       "step-1.0": {
-      "English": "ACTIVATE: Total the amount of energy generated for you by the energy icons on all locations, then add 1 to that total. You may activate up to this much energy."
+        "English": "1. ACTIVATE PHASE."
     },
     "step-2.1": {
-        "English": "CONTROL: You may perform a drain action during your control phase when the stack is empty once at each target location that you control that has at least one energy icon on the side facing your opponent."
+        "English": "2. CONTROL PHASE."
     },
     "step-3.1": {
-        "English": "DEPLOY: You may play cards from your hand."
+        "English": "3. DEPLOY PHASE."
     },
     "step-4.1": {
-        "English": "BATTLE: May Pay 1 Energy to begin a battle at a location where both players have a unit and/or ship."
+        "English": "4. BATTLE PHASE."
     },
     "step-4.2": {
         "English": "4.2: Play interrupts/use activated abilities."
     },
     "step-4.3": {
-        "English": "4.3: Battle Destiny (Tactics 4 or more = Draw Destiny)"
+        "English": "4.3: Battle Destiny."
     },
     "step-4.4": {
         "English": "4.4: Play interrupts/use activated abilities."
@@ -43,13 +43,13 @@
         "English": "4.11: End of Battle. May start a new battle at a new location."
     },
     "step-5.1": {
-        "English": "MOVE: You may perform movement actions to move your ships and units. Each movement action costs you 1 energy. You may perform more than one movement action with the same ship or unit during the same move phase."
+        "English": "5. MOVE PHASE."
     },
     "step-6.1": {
-        "English": "DRAW: You may draw cards from the top of your active pile. There’s no limit to the number of cards you may draw. Each card drawn is a single draw action. You may see the card you get when you perform one draw action before deciding to draw another."
+        "English": "6. DRAW PHASE."
     },
     "step-7.0": {
-        "English": "END OF TURN. Click the 3-line menu on your Used pile and choose 'Move to -> PlayerXReserve -> Bottom'"
+        "English": "7. END OF TURN PHASE."
     },
     "Activate": {
         "English": "Activate"

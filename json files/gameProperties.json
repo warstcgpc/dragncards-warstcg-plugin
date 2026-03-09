@@ -3,6 +3,11 @@
         "victoryState": {
         "type": "string",
         "default": ""
+    },
+    "gameStepAutomation": {
+      "label": "gameStepAutomation",
+      "type": "boolean",
+      "default": true
     }
   }
 }

@@ -17,6 +17,15 @@
               ]
             ]
           },
+    "UPDATE_HELPER_TEXT_VISIBILITY": {
+      "args": [],
+      "code": ["COND",
+        ["EQUAL", "$GAME.gameStepAutomation", false],
+        ["UPDATE_LAYOUT", "/layout/textBoxes/roundAdvancement/visible", false],
+        ["TRUE"],
+        ["UPDATE_LAYOUT", "/layout/textBoxes/roundAdvancement/visible", true]
+      ]
+          },
     "DISCARD": {
             "args": [
               "$CARD_ID"
