@@ -96,6 +96,15 @@
     "menuPayEnergy": {
         "English": "•Pay 1 Energy."
     },
+    "menureservetoLost": {
+        "English": "•Lose 1 from Reserve."
+    },
+    "menuactivetoLost": {
+        "English": "•Lose 1 from Active."
+    },
+    "menuusedtoLost": {
+        "English": "•Lose 1 from Used."
+    },
     "player1Victory": {
         "English": "Player 1 Full Win."
     },

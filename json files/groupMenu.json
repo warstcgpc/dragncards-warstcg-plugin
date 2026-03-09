@@ -21,6 +21,18 @@
             "actionList": "drawoneCard"
         },
         {
+            "label": "id:menureservetoLost",
+            "actionList": "menureservetoLost"
+        },
+        {
+            "label": "id:menuactivetoLost",
+            "actionList": "menuactivetoLost"
+        },
+        {
+            "label": "id:menuusedtoLost",
+            "actionList": "menuusedtoLost"
+        },
+        {
             "label": "id:drawstartinghand",
             "actionList": "drawstartingHand"
         },

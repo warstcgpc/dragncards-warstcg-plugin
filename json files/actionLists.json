@@ -35,6 +35,15 @@
     "menuPayEnergy": [
             ["PAY_ENERGY"]
         ],
+    "menureservetoLost": [
+            ["RESERVE_TO_LOST"]
+        ],
+    "menuactivetoLost": [
+            ["ACTIVE_TO_LOST"]
+        ],
+    "menuusedtoLost": [
+            ["USED_TO_LOST"]
+        ],
     "flipCard": [
             ["LOG", "$ALIAS_N", " flipped ", "$ACTIVE_FACE.name", "."],
             ["FLIP"]

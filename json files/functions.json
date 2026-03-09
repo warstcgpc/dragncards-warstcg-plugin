@@ -169,6 +169,27 @@
         ["LOG", "{{$ALIAS_N}} paid 1 Energy from Active to Used."]
       ]
     },
+    "RESERVE_TO_LOST": {
+      "args": [],
+      "code": [
+        ["MOVE_STACKS", "{{$PLAYER_N}}Reserve", "{{$PLAYER_N}}Lost", 1, "top"],
+        ["LOG", "{{$ALIAS_N}} Lost 1 Energy from Reserve Pile to Lost."]
+      ]
+    },
+    "ACTIVE_TO_LOST": {
+      "args": [],
+      "code": [
+        ["MOVE_STACKS", "{{$PLAYER_N}}Active", "{{$PLAYER_N}}Lost", 1, "top"],
+        ["LOG", "{{$ALIAS_N}} Lost 1 Energy from Active Pile to Lost."]
+      ]
+    },
+    "USED_TO_LOST": {
+      "args": [],
+      "code": [
+        ["MOVE_STACKS", "{{$PLAYER_N}}Used", "{{$PLAYER_N}}Lost", 1, "top"],
+        ["LOG", "{{$ALIAS_N}} Lost 1 Energy from Used Pile to Lost."]
+      ]
+    },
     "INVERT_CARD": {
       "args": [],
       "code": [
