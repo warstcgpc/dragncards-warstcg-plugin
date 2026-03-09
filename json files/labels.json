@@ -82,13 +82,19 @@
         "English": "•Damage/Undamage"
     },
     "drawonecard": {
-        "English": "•Draw 1 Card"
+        "English": "•Draw 1 from Active Pile"
     },
     "drawstartinghand": {
         "English": "•Draw Starting Hand"
     },
     "sendusedtoReserve": {
         "English": "•Used to Reserve Pile."
+    },
+    "menuactivateEnergy": {
+        "English": "•Activate 1 Energy."
+    },
+    "menuPayEnergy": {
+        "English": "•Pay 1 Energy."
     },
     "player1Victory": {
         "English": "Player 1 Full Win."

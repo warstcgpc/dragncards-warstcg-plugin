@@ -29,6 +29,12 @@
             ["LOG", "$ALIAS_N", " sent Used Pile to Bottom of Reserve."],
             ["USED_TO_RESERVE"]
         ],
+    "menuactivateEnergy": [
+            ["ACTIVATE_ENERGY"]
+        ],
+    "menuPayEnergy": [
+            ["PAY_ENERGY"]
+        ],
     "flipCard": [
             ["LOG", "$ALIAS_N", " flipped ", "$ACTIVE_FACE.name", "."],
             ["FLIP"]

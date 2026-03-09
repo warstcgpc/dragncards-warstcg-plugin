@@ -9,6 +9,14 @@
     ],
     "options": [
         {
+            "label": "id:menuactivateEnergy",
+            "actionList": "menuactivateEnergy"
+        },
+        {
+            "label": "id:menuPayEnergy",
+            "actionList": "menuPayEnergy"
+        },
+        {
             "label": "id:drawonecard",
             "actionList": "drawoneCard"
         },
