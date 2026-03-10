@@ -13,7 +13,8 @@
       },
       {
         "actionList": "menu_declarebattle",
-        "label": "id:menu_declarebattle"
+        "label": "id:menu_declarebattle",
+        "showIf": ["EQUAL", "$ACTIVE_CARD.type", "SITE"]
       },
       {
         "actionList": "invertCard",

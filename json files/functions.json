@@ -105,7 +105,9 @@
     "DRAW_ONE_CARD": {
       "args": [],
       "code": [
-        [
+        [ "COND",
+        ["GROUP_NOT_EMPTY", "{{$PLAYER_N}}Active"],
+        [[
           "MOVE_CARD",
           [
             "GET_CARD_ID",
@@ -119,7 +121,10 @@
         [
           "LOG",
           "{{$ALIAS_N}} drew 1 Card from their Active Pile."
-        ]
+        ]],
+        ["true"],
+        ["LOG", "{{$ALIAS_N}} Active Pile has no cards. You must Activate Energy first."]
+      ]
       ]
     },
     "DRAW_STARTING_HAND": {
