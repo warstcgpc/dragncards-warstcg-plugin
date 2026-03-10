@@ -12,9 +12,9 @@
         "label": "id:menulog_activation"
       },
       {
-        "actionList": "menu_declarebattle",
-        "label": "id:menu_declarebattle",
-        "showIf": ["EQUAL", "$ACTIVE_CARD.type", "SITE"]
+      "actionList": "menu_declarebattle",
+      "label": "id:menu_declarebattle",
+      "showIf": ["EQUAL", "$ACTIVE_CARD.Type", "SITE"]
       },
       {
         "actionList": "invertCard",

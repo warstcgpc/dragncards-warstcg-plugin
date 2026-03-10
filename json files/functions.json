@@ -3,33 +3,47 @@
     "ACTIVATE_ENERGY": {
       "args": [],
       "code": [
+        [ "COND",
+        ["GROUP_NOT_EMPTY", "{{$PLAYER_N}}Reserve"],
         [
-          "MOVE_STACKS",
-          "{{$PLAYER_N}}Reserve",
-          "{{$PLAYER_N}}Active",
-          1,
-          "top"
+          [
+            "MOVE_STACKS",
+            "{{$PLAYER_N}}Reserve",
+            "{{$PLAYER_N}}Active",
+            1,
+            "top"
+          ],
+          [
+            "LOG",
+            "{{$ALIAS_N}} Activated 1 Energy from Reserve to Active."
+          ]
         ],
-        [
-          "LOG",
-          "{{$ALIAS_N}} Activated 1 Energy from Reserve to Active."
-        ]
+        ["true"],
+        ["LOG", "{{$ALIAS_N}} Reserve Pile has no cards. Load a deck first using Menu-> Load -> Prebuilt; or build a custom deck. You lose the game if you have no cards in your Active, Reserve, and Used Piles.  Online rules and tutorial are available at https://warstcg.org"]
+      ]
       ]
     },
     "ACTIVE_TO_LOST": {
       "args": [],
       "code": [
+        [ "COND",
+        ["GROUP_NOT_EMPTY", "{{$PLAYER_N}}Active"],
         [
-          "MOVE_STACKS",
-          "{{$PLAYER_N}}Active",
-          "{{$PLAYER_N}}Lost",
-          1,
-          "top"
+          [
+            "MOVE_STACKS",
+            "{{$PLAYER_N}}Active",
+            "{{$PLAYER_N}}Lost",
+            1,
+            "top"
+          ],
+          [
+            "LOG",
+            "{{$ALIAS_N}} Lost 1 Energy from Active Pile to Lost."
+          ]
         ],
-        [
-          "LOG",
-          "{{$ALIAS_N}} Lost 1 Energy from Active Pile to Lost."
-        ]
+        ["true"],
+        ["LOG", "{{$ALIAS_N}} Active Pile has no cards. You must lose Energy from Reserve or Used instead. You lose the game if you have no cards in your Active, Reserve, and Used Piles.  Online rules and tutorial are available at https://warstcg.org"]
+      ]
       ]
     },
     "DETACH": {
@@ -123,14 +137,16 @@
           "{{$ALIAS_N}} drew 1 Card from their Active Pile."
         ]],
         ["true"],
-        ["LOG", "{{$ALIAS_N}} Active Pile has no cards. You must Activate Energy first."]
+        ["LOG", "{{$ALIAS_N}} Active Pile has no cards. Activate Energy first during your Activation Phase by using HotKey A. You get 1 Energy for each Energy Icon on your side of Location Cards, plus 1 Additional.  Online rules and tutorial are available at https://warstcg.org"]
       ]
       ]
     },
     "DRAW_STARTING_HAND": {
       "args": [],
       "code": [
-        [
+        [ "COND",
+        ["GROUP_NOT_EMPTY", "{{$PLAYER_N}}Reserve"],
+        [[
           "MOVE_STACKS",
           "{{$PLAYER_N}}Reserve",
           "{{$PLAYER_N}}Hand",
@@ -140,7 +156,10 @@
         [
           "LOG",
           "{{$ALIAS_N}} drew a Starting hand of 8 cards from their Reserve."
-        ]
+        ]],
+        ["true"],
+        ["LOG", "{{$ALIAS_N}} Reserve Pile has no cards. Load a deck first using Menu-> Load -> Prebuilt; or build a custom deck.  Online rules and tutorial are available at https://warstcg.org"]
+      ]
       ]
     },
     "FLIP": {
@@ -253,6 +272,9 @@
     "PAY_ENERGY": {
       "args": [],
       "code": [
+        [ "COND",
+        ["GROUP_NOT_EMPTY", "{{$PLAYER_N}}Active"],
+        [
         [
           "MOVE_STACKS",
           "{{$PLAYER_N}}Active",
@@ -264,11 +286,18 @@
           "LOG",
           "{{$ALIAS_N}} paid 1 Energy from Active to Used."
         ]
+    ],
+        ["true"],
+        ["LOG", "{{$ALIAS_N}} Active Pile has no cards. Activate Energy first during your Activation Phase by using HotKey A. You get 1 Energy for each Energy Icon on your side of Location Cards, plus 1 Additional.  Online rules and tutorial are available at https://warstcg.org"]
+      ]
       ]
     },
-    "RESERVE_TO_LOST": {
+"RESERVE_TO_LOST": {
       "args": [],
       "code": [
+        [ "COND",
+        ["GROUP_NOT_EMPTY", "{{$PLAYER_N}}Reserve"],
+        [
         [
           "MOVE_STACKS",
           "{{$PLAYER_N}}Reserve",
@@ -280,6 +309,10 @@
           "LOG",
           "{{$ALIAS_N}} Lost 1 Energy from Reserve Pile to Lost."
         ]
+    ],
+        ["true"],
+        ["LOG", "{{$ALIAS_N}} Reserve Pile has no cards. You must lose Energy from Active or Used instead.  Online rules and tutorial are available at https://warstcg.org"]
+      ]
       ]
     },
     "SEND_TO_LOST": {
@@ -491,9 +524,12 @@
         ]
       ]
     },
-    "USED_TO_LOST": {
+"USED_TO_LOST": {
       "args": [],
       "code": [
+        [ "COND",
+        ["GROUP_NOT_EMPTY", "{{$PLAYER_N}}Used"],
+        [
         [
           "MOVE_STACKS",
           "{{$PLAYER_N}}Used",
@@ -505,6 +541,10 @@
           "LOG",
           "{{$ALIAS_N}} Lost 1 Energy from Used Pile to Lost."
         ]
+    ],
+        ["true"],
+        ["LOG", "{{$ALIAS_N}} Used Pile has no cards. You must lose Energy from Active or Reserve instead.  Online rules and tutorial are available at https://warstcg.org"]
+      ]
       ]
     },
     "USED_TO_RESERVE": {

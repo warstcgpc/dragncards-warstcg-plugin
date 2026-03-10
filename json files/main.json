@@ -1,6 +1,6 @@
 {
     "pluginName": "WARS Trading Card Game",
-    "tutorialUrl": "https://youtu.be/rxwOuxaNN0I",
+    "tutorialUrl": "https://warstcg.org/dragncards-tutorial/",
     "backgroundUrl": "https://warstcg.org//img/warsdragnbackground.webp",
-    "loadPreBuiltOnNewGame": true
+    "loadPreBuiltOnNewGame": false
 }

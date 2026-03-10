@@ -1,10 +1,7 @@
 {
   "announcements": [
-    "2026-03-09: Adding Deck/Energy Counter to Top Bar - In progress.",
-    "2026-03-08: Fixed Hotkeys. Added new game keys.",
-    "2026-03-07: Playable Alpha.",
-    "2026-03-07: Fixed Invert/Revert Crash on non-inverting Cards. Added Damage.",
-    "2026-03-06: 2205 PST - Added Invert/Revert Support to card menu.",
-    "2026-03-06: Plugin created. Inverters don't flip yet."
+    "Make sure to visit the Tutorial Page for Rules and Tips.",
+    "2026-03-09: Deck/Energy Counter at Topbar in Progress.",
+    "2026-03-06: Plugin created."
   ]
 }
