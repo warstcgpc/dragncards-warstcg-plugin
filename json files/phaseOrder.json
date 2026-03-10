@@ -1,0 +1,11 @@
+{
+  "phaseOrder": [
+    "Activate",
+    "Control",
+    "Deploy",
+    "Battle",
+    "Move",
+    "Draw",
+    "End"
+  ]
+}

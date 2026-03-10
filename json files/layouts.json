@@ -2,7 +2,6 @@
   "layouts": {
     "default": {
       "cardSize": 11,
-      "testBorders": false,
       "chat": {
         "height": "40%",
         "left": "80%",
@@ -123,26 +122,44 @@
           "groupId": "sharedLocations",
           "height": "15.4%",
           "left": "0.0%",
+          "style": {
+            "background": "rgba(0, 0, 0, 0.3)"
+          },
           "top": "42.1%",
           "type": "free",
-          "width": "67.3%",
-          "style": {"background": "rgba(0, 0, 0, 0.3)"}
+          "width": "67.3%"
         },
         "sharedStack": {
           "direction": "vertical",
           "groupId": "sharedStack",
           "height": "64.5%",
           "left": "68.2%",
+          "style": {
+            "background": "rgba(0, 0, 0, 0.3)"
+          },
           "top": "16.8%",
           "type": "free",
-          "width": "10.9%",
-          "style": {"background": "rgba(0, 0, 0, 0.3)"}
+          "width": "10.9%"
         }
       },
-        "textBoxes": {
-            "roundAdvancement":   {"label": "Menu->Load to load player decks.", "left": "0%", "top": "0%", "width": "100%", "height": "3%", "visible": true}
-        },
-      "rowSpacing": 3
+          "rowSpacing": 3,
+          "testBorders": false,
+      "textBoxes": {
+        "roundAdvancement": {
+          "height": "3%",
+          "label": "Menu->Load to load player decks.",
+          "left": "0%",
+          "top": "0%",
+          "visible": true,
+          "width": "100%"
+        }
+      },
+      "tableButtons": {
+          "p1endTurnSuggestion": {"actionList": ["P1END_TURN"], "label": "Player1 EndTurn.", "left": "91%", "top": "76%", "width": "9%", "height": "4%", "visible": true},
+          "p1startTurn": {"actionList": ["P1START_TURN"], "label": "Player1 StartTurn.", "left": "91%", "top": "71%", "width": "9%", "height": "4%", "visible": true},
+          "p2endTurnSuggestion": {"actionList": ["P2END_TURN"], "label": "Player2 EndTurn.", "left": "91%", "top": "25%", "width": "9%", "height": "4%", "visible": true},
+          "p2startTurn": {"actionList": ["P2START_TURN"], "label": "Player2 StartTurn.", "left": "91%", "top": "20%", "width": "9%", "height": "4%", "visible": true}
+      }
     }
   }
 }

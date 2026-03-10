@@ -1,24 +1,56 @@
 {
   "defaultActions": [
-      {
-        "actionList": "invertCard",
-        "label": "id:invert",
-        "condition": ["AND", ["EQUAL", "$ACTIVE_CARD.currentSide", "A"], "$ACTIVE_CARD.inPlay"]
-      },  
-      {
-        "actionList": "invertCard",
-        "label": "id:invert",
-        "condition": ["AND", ["EQUAL", "$ACTIVE_CARD.currentSide", "C"], "$ACTIVE_CARD.inPlay"]
-      },
-            {
-        "actionList": "damageCard",
-        "label": "id:damage",
-        "condition": ["AND", ["EQUAL", "$ACTIVE_CARD.rotation", 0], "$ACTIVE_CARD.inPlay"]
-      },
-      {
-        "actionList": "damageCard",
-        "label": "id:damage",
-        "condition": ["AND", ["EQUAL", "$ACTIVE_CARD.rotation", 90], "$ACTIVE_CARD.inPlay"]
-      }
+    {
+      "actionList": "invertCard",
+      "condition": [
+        "AND",
+        [
+          "EQUAL",
+          "$ACTIVE_CARD.currentSide",
+          "A"
+        ],
+        "$ACTIVE_CARD.inPlay"
+      ],
+      "label": "id:invert"
+    },
+    {
+      "actionList": "invertCard",
+      "condition": [
+        "AND",
+        [
+          "EQUAL",
+          "$ACTIVE_CARD.currentSide",
+          "C"
+        ],
+        "$ACTIVE_CARD.inPlay"
+      ],
+      "label": "id:invert"
+    },
+    {
+      "actionList": "damageCard",
+      "condition": [
+        "AND",
+        [
+          "EQUAL",
+          "$ACTIVE_CARD.rotation",
+          0
+        ],
+        "$ACTIVE_CARD.inPlay"
+      ],
+      "label": "id:damage"
+    },
+    {
+      "actionList": "damageCard",
+      "condition": [
+        "AND",
+        [
+          "EQUAL",
+          "$ACTIVE_CARD.rotation",
+          90
+        ],
+        "$ACTIVE_CARD.inPlay"
+      ],
+      "label": "id:damage"
+    }
   ]
 }

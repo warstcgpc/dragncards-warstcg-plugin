@@ -1,9 +1,44 @@
 {
-    "closeRoomOptions": [
-        {"label": "id:player1Victory", "actionList": ["SET", "/victoryState", "Player1 WARS TCG Full Win"]},
-        {"label": "id:player2Victory", "actionList": ["SET", "/victoryState", "Player2 WARS TCG Full Win"]},
-        {"label": "id:player1modifiedVictory", "actionList": ["SET", "/victoryState", "Player1 WARS TCG Modified Win"]},
-        {"label": "id:player2modifiedVictory", "actionList": ["SET", "/victoryState", "Player2 WARS TCG Modified Win"]},
-        {"label": "id:markasIncomplete", "actionList": ["SET", "/victoryState", "Incomplete"]}
+  "closeRoomOptions": [
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player1 WARS TCG Full Win"
+      ],
+      "label": "id:player1Victory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player2 WARS TCG Full Win"
+      ],
+      "label": "id:player2Victory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player1 WARS TCG Modified Win"
+      ],
+      "label": "id:player1modifiedVictory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player2 WARS TCG Modified Win"
+      ],
+      "label": "id:player2modifiedVictory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Incomplete"
+      ],
+      "label": "id:markasIncomplete"
+    }
   ]
 }

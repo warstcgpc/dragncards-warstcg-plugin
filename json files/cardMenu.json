@@ -7,28 +7,40 @@
       "playerNUsed"
     ],
     "options": [
-        {
-            "label": "id:menulog_activation",
-            "actionList": "menulog_activation"
-        },
-        {
-            "label": "id:invert",
-            "actionList": "invertCard",
-            "showIf": ["NOT_EQUAL", "$ACTIVE_CARD.sides.B.name", "normal"]
-        },
-        {
-            "label": "id:damage",
-            "actionList": "damageCard"
-        },
-        {
-            "label": "id:sendcardtolostPile",
-            "actionList": "menusendcardtolostPile"
-        },
-        {
-            "label": "id:sendcardtousedPile",
-            "actionList": "menusendcardtousedPile"
-        }
+      {
+        "actionList": "menulog_activation",
+        "label": "id:menulog_activation"
+      },
+      {
+        "actionList": "menu_declarebattle",
+        "label": "id:menu_declarebattle"
+      },
+      {
+        "actionList": "invertCard",
+        "label": "id:invert",
+        "showIf": [
+          "NOT_EQUAL",
+          "$ACTIVE_CARD.sides.B.name",
+          "normal"
+        ]
+      },
+      {
+        "actionList": "damageCard",
+        "label": "id:damage"
+      },
+      {
+        "actionList": "menusendcardtolostPile",
+        "label": "id:sendcardtolostPile"
+      },
+      {
+        "actionList": "menusendcardtousedPile",
+        "label": "id:sendcardtousedPile"
+      }
     ],
-    "suppress": ["Delete", "Toggle Trigger", "Set Rotation"]
+    "suppress": [
+      "Delete",
+      "Toggle Trigger",
+      "Set Rotation"
+    ]
   }
 }

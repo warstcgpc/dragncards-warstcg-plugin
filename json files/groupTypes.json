@@ -31,14 +31,14 @@
       "shuffleOnLoad": false
     },
     "hand": {
-        "canHaveAttachments": false,
-        "canHaveTokens": false,
-        "shuffleOnLoad": false,
-        "onCardEnter": {
-            "currentSide": "B",
-            "inPlay": false,
-            "rotation": 0
-        }
+      "canHaveAttachments": false,
+      "canHaveTokens": false,
+      "onCardEnter": {
+        "currentSide": "B",
+        "inPlay": false,
+        "rotation": 0
+      },
+      "shuffleOnLoad": false
     },
     "inPlay": {
       "canHaveAttachments": true,

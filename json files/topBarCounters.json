@@ -1,5 +1,12 @@
 {
   "topBarCounters": {
+    "player": [
+      {
+        "imageUrl": "https://warstcg.org//img/wars_card_back.jpg",
+        "label": "id:energy",
+        "playerProperty": "energy"
+      }
+    ],
     "shared": [
       {
         "gameProperty": "roundNumber",

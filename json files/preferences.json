@@ -1,5 +1,7 @@
 {
   "preferences": {
-        "game": ["gameStepAutomation"]
+    "game": [
+      "gameStepAutomation"
+    ]
   }
 }

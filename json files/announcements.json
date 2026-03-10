@@ -1,5 +1,6 @@
 {
   "announcements": [
+    "2026-03-09: Adding Deck/Energy Counter to Top Bar - In progress.",
     "2026-03-08: Fixed Hotkeys. Added new game keys.",
     "2026-03-07: Playable Alpha.",
     "2026-03-07: Fixed Invert/Revert Crash on non-inverting Cards. Added Damage.",

@@ -1,9 +1,44 @@
 {
   "clearTableOptions": [
-        {"label": "id:player1Victory", "actionList": ["SET", "/victoryState", "Player 1 Full Win"]},
-        {"label": "id:player2Victory", "actionList": ["SET", "/victoryState", "Player 2 Full Win"]},
-        {"label": "id:player1modifiedVictory", "actionList": ["SET", "/victoryState", "Player 1 Modified Win"]},
-        {"label": "id:player2modifiedVictory", "actionList": ["SET", "/victoryState", "Player 2 Modified Win"]},
-        {"label": "id:markasIncomplete", "actionList": ["SET", "/victoryState", "Incomplete"]}
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player 1 Full Win"
+      ],
+      "label": "id:player1Victory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player 2 Full Win"
+      ],
+      "label": "id:player2Victory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player 1 Modified Win"
+      ],
+      "label": "id:player1modifiedVictory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Player 2 Modified Win"
+      ],
+      "label": "id:player2modifiedVictory"
+    },
+    {
+      "actionList": [
+        "SET",
+        "/victoryState",
+        "Incomplete"
+      ],
+      "label": "id:markasIncomplete"
+    }
   ]
 }

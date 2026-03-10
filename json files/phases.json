@@ -4,6 +4,10 @@
       "height": "10.0%",
       "label": "id:Activate"
     },
+    "Battle": {
+      "height": "40.0%",
+      "label": "id:Battle"
+    },
     "Control": {
       "height": "10.0%",
       "label": "id:Control"
@@ -12,14 +16,6 @@
       "height": "10.0%",
       "label": "id:Deploy"
     },
-    "Battle": {
-      "height": "40.0%",
-      "label": "id:Battle"
-    },
-    "Move": {
-      "height": "10.0%",
-      "label": "id:Move"
-    },
     "Draw": {
       "height": "10.0%",
       "label": "id:Draw"
@@ -27,7 +23,10 @@
     "End": {
       "height": "10.0%",
       "label": "id:End"
+    },
+    "Move": {
+      "height": "10.0%",
+      "label": "id:Move"
     }
-  },
-    "phaseOrder": ["Activate", "Control", "Deploy", "Battle", "Move", "Draw", "End"]
+  }
 }

@@ -8,38 +8,38 @@
       "playerNUsed"
     ],
     "options": [
-        {
-            "label": "id:menuactivateEnergy",
-            "actionList": "menuactivateEnergy"
-        },
-        {
-            "label": "id:menuPayEnergy",
-            "actionList": "menuPayEnergy"
-        },
-        {
-            "label": "id:drawonecard",
-            "actionList": "drawoneCard"
-        },
-        {
-            "label": "id:menureservetoLost",
-            "actionList": "menureservetoLost"
-        },
-        {
-            "label": "id:menuactivetoLost",
-            "actionList": "menuactivetoLost"
-        },
-        {
-            "label": "id:menuusedtoLost",
-            "actionList": "menuusedtoLost"
-        },
-        {
-            "label": "id:drawstartinghand",
-            "actionList": "drawstartingHand"
-        },
-        {
-            "label": "id:sendusedtoReserve",
-            "actionList": "sendusedtoReserve"
-        }
+      {
+        "actionList": "menuactivateEnergy",
+        "label": "id:menuactivateEnergy"
+      },
+      {
+        "actionList": "menuPayEnergy",
+        "label": "id:menuPayEnergy"
+      },
+      {
+        "actionList": "drawoneCard",
+        "label": "id:drawonecard"
+      },
+      {
+        "actionList": "menureservetoLost",
+        "label": "id:menureservetoLost"
+      },
+      {
+        "actionList": "menuactivetoLost",
+        "label": "id:menuactivetoLost"
+      },
+      {
+        "actionList": "menuusedtoLost",
+        "label": "id:menuusedtoLost"
+      },
+      {
+        "actionList": "drawstartingHand",
+        "label": "id:drawstartinghand"
+      },
+      {
+        "actionList": "sendusedtoReserve",
+        "label": "id:sendusedtoReserve"
+      }
     ]
   }
 }

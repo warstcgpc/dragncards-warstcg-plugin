@@ -1,3 +1,10 @@
 {
-  "playerProperties": {}
+  "playerProperties": {
+    "energy": {
+      "default": 60,
+      "label": "id:energy",
+      "min": 0,
+      "type": "integer"
+    }
+  }
 }
