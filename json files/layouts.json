@@ -70,7 +70,7 @@
           "left": "0.0%",
           "top": "57.5%",
           "type": "free",
-          "width": "67.3%"
+          "width": "71%"
         },
         "player1Reserve": {
           "direction": "horizontal",
@@ -106,7 +106,7 @@
           "left": "0.0%",
           "top": "14.0%",
           "type": "free",
-          "width": "67.3%"
+          "width": "71%"
         },
         "player2Reserve": {
           "direction": "horizontal",
@@ -127,19 +127,19 @@
           },
           "top": "42.1%",
           "type": "free",
-          "width": "67.3%"
+          "width": "71%"
         },
         "sharedStack": {
           "direction": "vertical",
           "groupId": "sharedStack",
           "height": "64.5%",
-          "left": "68.2%",
+          "left": "73%",
           "style": {
             "background": "rgba(0, 0, 0, 0.3)"
           },
           "top": "16.8%",
           "type": "free",
-          "width": "10.9%"
+          "width": "7%"
         }
       },
           "rowSpacing": 3,
