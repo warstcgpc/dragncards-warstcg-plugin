@@ -154,10 +154,7 @@
       "groupType": "inPlay",
       "label": "Locations",
       "onCardEnter": {
-        "controller": "shared",
-        "rotationByPlayer": {
-          "player2": "180"
-        }
+        "controller": "shared"
       },
       "tableLabel": "Locations"
     },
