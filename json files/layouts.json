@@ -66,11 +66,12 @@
         "player1PlayArea": {
           "direction": "horizontal",
           "groupId": "player1PlayArea",
-          "height": "28.1%",
+          "height": "30.6%",
           "left": "0.0%",
-          "top": "57.5%",
+          "top": "55.0%",
           "type": "free",
-          "width": "71%"
+          "width": "71%",
+          "cardSizeFactor": 0.8
         },
         "player1Reserve": {
           "direction": "horizontal",
@@ -102,11 +103,12 @@
         "player2PlayArea": {
           "direction": "horizontal",
           "groupId": "player2PlayArea",
-          "height": "28.1%",
+          "height": "30.6%",
           "left": "0.0%",
           "top": "14.0%",
           "type": "free",
-          "width": "71%"
+          "width": "71%",
+          "cardSizeFactor": 0.8
         },
         "player2Reserve": {
           "direction": "horizontal",
@@ -120,14 +122,15 @@
         "sharedLocations": {
           "direction": "horizontal",
           "groupId": "sharedLocations",
-          "height": "15.4%",
+          "height": "10%",
           "left": "0.0%",
           "style": {
             "background": "rgba(0, 0, 0, 0.3)"
           },
-          "top": "42.1%",
+          "top": "44.6%",
           "type": "free",
-          "width": "71%"
+          "width": "71%",
+          "cardSizeFactor": 0.8
         },
         "sharedStack": {
           "direction": "vertical",
