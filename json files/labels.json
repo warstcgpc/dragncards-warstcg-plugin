@@ -105,6 +105,9 @@
     "damage": {
       "English": "•Damage/Undamage"
     },
+    "rotate180": {
+      "English": "•Rotate 180 (P2 Sites)"
+    },
     "sendcardtolostPile": {
       "English": "•Send to Lost Pile."
     },

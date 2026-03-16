@@ -39,6 +39,45 @@
         ]
       ]
     ],
+    "rotate180": [
+      [
+        "COND",
+        [
+          "EQUAL",
+          "$ACTIVE_CARD.rotation",
+          0
+        ],
+        [
+          [
+            "LOG",
+            "$ALIAS_N",
+            " rotated ",
+            "$ACTIVE_FACE.name",
+            " 180 degrees."
+          ],
+          [
+            "SET",
+            "/cardById/$ACTIVE_CARD_ID/rotation",
+            180
+          ]
+        ],
+        true,
+        [
+          [
+            "SET",
+            "/cardById/$ACTIVE_CARD_ID/rotation",
+            0
+          ],
+          [
+            "LOG",
+            "$ALIAS_N",
+            " unrotated ",
+            "$ACTIVE_FACE.name",
+            "."
+          ]
+        ]
+      ]
+    ],
     "drawoneCard": [
       [
         "LOG",

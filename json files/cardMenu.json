@@ -35,6 +35,10 @@
       {
         "actionList": "menusendcardtousedPile",
         "label": "id:sendcardtousedPile"
+      },
+      {
+        "actionList": "rotate180",
+        "label": "id:rotate180"
       }
     ],
     "suppress": [
