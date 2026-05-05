@@ -563,6 +563,38 @@
         ]
       ]
     },
+    "USED_TO_RESERVE_P1": {
+      "args": [],
+      "code": [
+        [
+          "MOVE_STACKS",
+          "player1Used",
+          "player1Reserve",
+          -1,
+          "bottom"
+        ],
+        [
+          "LOG",
+          "Player 1 sent their Used Pile to Bottom of Reserve."
+        ]
+      ]
+    },
+    "USED_TO_RESERVE_P2": {
+      "args": [],
+      "code": [
+        [
+          "MOVE_STACKS",
+          "player2Used",
+          "player2Reserve",
+          -1,
+          "bottom"
+        ],
+        [
+          "LOG",
+          "Player 2 sent their Used Pile to Bottom of Reserve."
+        ]
+      ]
+    },
     "P1START_TURN": {
       "args": [],
       "code": [
@@ -589,7 +621,8 @@
           ]
         ],
         ["LOG", "*******BREAK*******"],
-        ["USED_TO_RESERVE"],
+        ["USED_TO_RESERVE_P1"],
+        ["USED_TO_RESERVE_P2"],
         ["LOG", "{{$ALIAS_N}} ended their turn."],
         ["LOG", "*******BREAK*******"],
         ["LOG", "Player 2 it is now your turn."],
@@ -623,7 +656,8 @@
           ]
         ],
         ["LOG", "*******BREAK*******"],
-        ["USED_TO_RESERVE"],
+        ["USED_TO_RESERVE_P2"],
+        ["USED_TO_RESERVE_P1"],
         ["LOG", "{{$ALIAS_N}} ended their turn."],
         ["LOG", "*******BREAK*******"],
         ["LOG", "Player 1 it is now your turn."],
